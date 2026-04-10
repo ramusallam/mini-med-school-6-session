@@ -241,6 +241,7 @@
     .sc.type-lab { border-left-color: #E65C3C; }
     .sc.type-break { border-left-color: #ddd; background: #fafbfc; }
     .sc.type-digital { border-left-color: #D4A843; }
+    .sc.type-connect { border-left-color: #1B3A5C; }
     .sc.type-wrap { border-left-color: #7A2D4E; }
 
     .sc-title {
@@ -625,7 +626,10 @@
     .part-num-hook { background: #e8f5f3; color: #1A6B6B; }
     .part-num-lab { background: #fce8e4; color: #c0392b; }
     .part-num-digital { background: #fdf3e0; color: #b8860b; }
+    .part-num-connect { background: #e8edf3; color: #1B3A5C; }
     .part-num-wrap { background: #f3e8ed; color: #7A2D4E; }
+
+    .sub-station-header { color: #1A6B6B; border-bottom: 2px solid #e0ebe9; padding-bottom: 6px; margin: 18px 0 10px; font-size: 1rem; font-weight: 700; }
 
     .part-title {
       font-size: 1.1rem;
@@ -849,7 +853,7 @@
             </div>
           </div>
 
-          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station A: Blood Pressure Investigation</h4>
+          <h4 class="sub-station-header">Sub-Station A: Blood Pressure Investigation</h4>
           <div class="callout">Marco reports dizziness and chest tightness. High blood pressure could explain both — and it's the #1 risk factor for heart attacks.</div>
           <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/llosVAoeojQ" loading="lazy" allowfullscreen title="How to Take Blood Pressure"></iframe></div>
           <div class="step-card">
@@ -870,7 +874,7 @@
             <strong>BP Classification:</strong> Normal = less than 120/80 &nbsp;|&nbsp; Elevated = 120-129 &nbsp;|&nbsp; Stage 1 Hypertension = 130-139/80-89 &nbsp;|&nbsp; Stage 2 Hypertension = 140+/90+ &nbsp;|&nbsp; Crisis = 180+/120+ (call 911)
           </div>
 
-          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station B: Pulse Oximetry</h4>
+          <h4 class="sub-station-header">Sub-Station B: Pulse Oximetry</h4>
           <div class="callout">Low oxygen levels can cause dizziness. We need to check if Marco's blood is carrying enough oxygen to his brain.</div>
           <div class="step-card">
             <div class="step-header">
@@ -883,7 +887,7 @@
             <strong>Normal Ranges:</strong> SpO2 = 95-100% (below 95% means not enough oxygen) &nbsp;|&nbsp; Pulse = 60-100 BPM at rest (above 100 means the heart is working too hard)
           </div>
 
-          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station C: Stethoscope Technique</h4>
+          <h4 class="sub-station-header">Sub-Station C: Stethoscope Technique</h4>
           <div class="callout">Marco's chest tightness could be his heart or his lungs. The stethoscope lets you listen to both and start narrowing down the cause.</div>
           <div class="step-card">
             <div class="step-header">
@@ -900,7 +904,7 @@
             <div class="step-desc">Move to the front of the chest (both sides), then the back (both sides). Record what you hear at each location. You should hear quiet, even breathing. Switch with your partner and repeat.</div>
           </div>
 
-          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station D: Neurological Assessment</h4>
+          <h4 class="sub-station-header">Sub-Station D: Neurological Assessment</h4>
           <div class="callout">Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that.</div>
           <div class="step-card">
             <div class="step-header">
@@ -936,27 +940,34 @@
             </div>
             <div class="step-desc">Transfer all of your readings into your recording sheet: resting BP, stress BP, recovery BP, SpO2, pulse rate, pupil response, and reflexes. Compare each one to the normal range.</div>
           </div>
-          <div class="app-section">
-            <button class="app-toggle-btn" onclick="toggleApp('ap-1-vsi')">&#9654; Launch: Vital Signs Interpreter<span class="app-arrow" id="arrow-ap-1-vsi">&#9660;</span></button>
-            <div class="app-wrapper" id="ap-1-vsi">
-              <iframe class="app-iframe" data-src="apps/vital-signs-interpreter.html" title="Vital Signs Interpreter"></iframe>
-            </div>
-          </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">2</span>
-              <span class="step-title">Which readings were outside the normal range?</span>
+              <span class="step-title">Test Your Interpretation</span>
+            </div>
+            <div class="step-desc">You've collected the raw numbers. Now see if you can interpret them like a doctor. Enter different vital sign values into the app and watch how the classifications change. Pay attention to where normal ends and danger begins — that boundary is where clinical judgment lives.</div>
+            <div class="app-section">
+              <button class="app-toggle-btn" onclick="toggleApp('ap-1-vsi')">&#9654; Launch: Vital Signs Interpreter<span class="app-arrow" id="arrow-ap-1-vsi">&#9660;</span></button>
+              <div class="app-wrapper" id="ap-1-vsi">
+                <iframe class="app-iframe" data-src="apps/vital-signs-interpreter.html" title="Vital Signs Interpreter"></iframe>
+              </div>
             </div>
           </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">3</span>
-              <span class="step-title">What could cause those abnormal readings?</span>
+              <span class="step-title">Which readings were outside the normal range?</span>
             </div>
           </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">4</span>
+              <span class="step-title">What could cause those abnormal readings?</span>
+            </div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">5</span>
               <span class="step-title">Based on everything you've measured, what do you think might be going on with Marco?</span>
             </div>
           </div>
@@ -967,9 +978,9 @@
         </div>
 
         <!-- PHASE 4: CONNECT FINDINGS BACK TO THE PATIENT -->
-        <div class="sc type-hook fade">
+        <div class="sc type-connect fade">
           <div class="part-heading">
-            <span class="part-num part-num-hook">Phase 4</span>
+            <span class="part-num part-num-connect">Phase 4</span>
             <h2 class="part-title">Connect Findings Back to the Patient</h2>
           </div>
           <p>You've learned what normal looks like. Now compare that to Marco's actual numbers and see if your instincts were right.</p>
@@ -1115,9 +1126,18 @@
               <span>Paper towels</span>
             </div>
           </div>
-          <button class="app-toggle-btn" onclick="toggleApp('ap-2-hae')">&#9654; Launch: Heart Anatomy Explorer<span class="app-arrow" id="arrow-ap-2-hae">&#9660;</span></button>
-          <div class="app-wrapper" id="ap-2-hae">
-            <iframe class="app-iframe" data-src="apps/heart-anatomy-explorer.html" title="Heart Anatomy Explorer"></iframe>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">0</span>
+              <span class="step-title">Orient Yourself: Heart Anatomy Explorer</span>
+            </div>
+            <div class="step-desc">Before you pick up a scalpel, explore the heart digitally. Use the <strong>Explore</strong> tab to learn the four chambers, major vessels, and valves. Then trace the blood flow circuit in the <strong>Blood Flow</strong> tab. This gives you a mental map so you know exactly what you're looking for when you open the real heart.</div>
+            <div class="app-section">
+              <button class="app-toggle-btn" onclick="toggleApp('ap-2-hae')">&#9654; Launch: Heart Anatomy Explorer<span class="app-arrow" id="arrow-ap-2-hae">&#9660;</span></button>
+              <div class="app-wrapper" id="ap-2-hae">
+                <iframe class="app-iframe" data-src="apps/heart-anatomy-explorer.html" title="Heart Anatomy Explorer"></iframe>
+              </div>
+            </div>
           </div>
           <div class="step-card">
             <div class="step-header">
@@ -1191,9 +1211,9 @@
         </div>
 
         <!-- PHASE 4: CONNECT FINDINGS BACK TO THE PATIENT -->
-        <div class="sc type-hook fade">
+        <div class="sc type-connect fade">
           <div class="part-heading">
-            <span class="part-num part-num-hook">Phase 4</span>
+            <span class="part-num part-num-connect">Phase 4</span>
             <h2 class="part-title">Connect Findings Back to the Patient</h2>
           </div>
           <p>You've seen the anatomy up close and mapped the blockage. Now connect your findings to Marco's real situation.</p>
@@ -1410,9 +1430,9 @@
         </div>
 
         <!-- PHASE 4: CONNECT FINDINGS BACK TO THE PATIENT -->
-        <div class="sc type-hook fade">
+        <div class="sc type-connect fade">
           <div class="part-heading">
-            <span class="part-num part-num-hook">Phase 4</span>
+            <span class="part-num part-num-connect">Phase 4</span>
             <h2 class="part-title">Connect Findings Back to the Patient</h2>
           </div>
           <p>You've practiced suturing and assessed your technique. Now see how a real ER team would handle Sofia's case.</p>
@@ -1628,9 +1648,9 @@
         </div>
 
         <!-- PHASE 4: CONNECT FINDINGS BACK TO THE PATIENT -->
-        <div class="sc type-hook fade">
+        <div class="sc type-connect fade">
           <div class="part-heading">
-            <span class="part-num part-num-hook">Phase 4</span>
+            <span class="part-num part-num-connect">Phase 4</span>
             <h2 class="part-title">Connect Findings Back to the Patient</h2>
           </div>
           <p>You've learned the instruments, mastered sterile technique, and practiced team communication. Now see how these protocols protect Marco in the real OR.</p>
@@ -1846,9 +1866,9 @@
         </div>
 
         <!-- PHASE 4: CONNECT FINDINGS BACK TO THE PATIENT -->
-        <div class="sc type-hook fade">
+        <div class="sc type-connect fade">
           <div class="part-heading">
-            <span class="part-num part-num-hook">Phase 4</span>
+            <span class="part-num part-num-connect">Phase 4</span>
             <h2 class="part-title">Connect Findings Back to the Patient</h2>
           </div>
           <p>You've felt the difficulty of laparoscopic surgery. Now understand the real stakes for patients like Marco.</p>
@@ -2057,6 +2077,12 @@
               <span class="step-title">Triage Debrief</span>
             </div>
             <div class="step-desc">Open the Vital Signs Interpreter app one final time. Enter hypothetical critical vitals: BP 88/54, HR 144, SpO2 89%, Temp 98.2. What does the app classify each reading as? Consider how these classifications guided your triage decisions.</div>
+            <div class="app-section">
+              <button class="app-toggle-btn" onclick="toggleApp('ap-6-vsi')">&#9654; Launch: Vital Signs Interpreter<span class="app-arrow" id="arrow-ap-6-vsi">&#9660;</span></button>
+              <div class="app-wrapper" id="ap-6-vsi">
+                <iframe class="app-iframe" data-src="apps/vital-signs-interpreter.html" title="Vital Signs Interpreter"></iframe>
+              </div>
+            </div>
           </div>
           <div class="part-check">
             <input type="checkbox" id="cb-24">
@@ -2065,9 +2091,9 @@
         </div>
 
         <!-- PHASE 4: CONNECT FINDINGS BACK TO THE PATIENT -->
-        <div class="sc type-hook fade">
+        <div class="sc type-connect fade">
           <div class="part-heading">
-            <span class="part-num part-num-hook">Phase 4</span>
+            <span class="part-num part-num-connect">Phase 4</span>
             <h2 class="part-title">Connect Findings Back to the Patient</h2>
           </div>
           <p>You made triage decisions under pressure. Now see the clinical reasoning behind the correct tags and compare your choices.</p>
@@ -2124,8 +2150,8 @@
             </div>
           </div>
           <div class="case-callout">
-            <div class="case-callout-label">Career Spotlight: Emergency Medicine Physician</div>
-            <p>Emergency medicine physicians are the ultimate generalists - they treat everything from lacerations to cardiac arrests to mass casualty events. The path is long ($310K-350K salary after 11+ years of training) but the impact is immediate. Every skill you practiced across all 6 sessions is part of their daily work.</p>
+            <div class="case-callout-label">Your Medical Journey</div>
+            <p>Over six sessions, you've measured vital signs like a paramedic, dissected a heart like an anatomist, sutured wounds like a surgeon, managed an operating room like an OR nurse, performed laparoscopic surgery like a minimally invasive specialist, and triaged a mass casualty like an emergency physician. These aren't just activities — they're the real skills that real medical professionals use every day. Whether you pursue medicine, nursing, biomedical engineering, or something else entirely, you now understand what it means to hold someone's health in your hands.</p>
           </div>
           <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/RaWl6-l-t4g" loading="lazy" allowfullscreen title="EM Physician Career Spotlight"></iframe></div>
           <div class="callout">Congratulations! You have completed Mini Med School. Over 6 sessions, you mastered vital signs, heart anatomy, suturing, surgical instruments, laparoscopic technique, and emergency triage. Collect your certificate and celebrate your growth.</div>
