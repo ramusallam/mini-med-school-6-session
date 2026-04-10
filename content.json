@@ -1,0 +1,512 @@
+{
+  "meta": {
+    "title": "Mini Med School 2026",
+    "program": "6-Session Program",
+    "dates": "",
+    "storageKey": "woven-mms-6session-2026",
+    "deployUrl": "https://mini-med-school-6-session-phi.vercel.app"
+  },
+  "days": [
+    {
+      "title": "Session 1: Your First Shift",
+      "subtitle": "Vital Signs & Patient Assessment",
+      "duration": "",
+      "sections": [
+        {
+          "style": "teal",
+          "title": "Phase 1: Introduce the Patient Case",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You're about to meet a real patient. Everything you learn today starts with his story." },
+            { "type": "callout", "content": "Your Patient: Marco Torres\n\nName: Marco Torres\nAge: 45   Occupation: Construction Foreman\n\nWhy he's here: Marco has been dizzy for 3 days. He feels tightness in his chest when he climbs stairs. His left arm has been tingling.\n\nWhat else you should know: He smokes half a pack of cigarettes a day. He works long hours in a high-stress job. His father had a heart attack at age 52.\n\nYour mission: You are Marco's medical team. Run a complete assessment — vital signs, heart, lungs, neuro — and figure out what's going on.", "style": "info" },
+            { "type": "step", "content": "What concerns you most about Marco? Why?" },
+            { "type": "step", "content": "If you were the ER team, what would you check first? Why?" },
+            { "type": "step", "content": "What does his family history tell you?" },
+            { "type": "checklist", "items": [{ "text": "I read the patient case and discussed the questions" }] }
+          ]
+        },
+        {
+          "style": "coral",
+          "title": "Phase 2: Skills Station — Vital Signs",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "callout", "content": "Materials: Automatic BP cuff (or manual cuff + stethoscope), Fingertip pulse oximeter, Stethoscope, Penlight, Reflex hammer, Alcohol wipes", "style": "info" },
+            { "type": "heading", "content": "Sub-Station A: Blood Pressure Investigation", "level": "h4" },
+            { "type": "callout", "content": "Marco reports dizziness and chest tightness. High blood pressure could explain both — and it's the #1 risk factor for heart attacks.", "style": "tip" },
+            { "type": "video", "url": "llosVAoeojQ", "title": "How to Take Blood Pressure" },
+            { "type": "step", "content": "Measure Resting BP: Wrap the cuff snugly around your partner's bare upper arm, just above the elbow. Press START and stay completely still and quiet until the reading appears. In your notebook, record the systolic (top number) and diastolic (bottom number)." },
+            { "type": "step", "content": "The Experiment: Do 2 minutes of jumping jacks. Immediately measure again and record your stress BP in your notebook. Wait 3 minutes, then measure one more time for your recovery BP. Switch roles with your partner and repeat." },
+            { "type": "callout", "content": "BP Classification: Normal = less than 120/80 | Elevated = 120-129 | Stage 1 Hypertension = 130-139/80-89 | Stage 2 Hypertension = 140+/90+ | Crisis = 180+/120+ (call 911)", "style": "tip" },
+            { "type": "heading", "content": "Sub-Station B: Pulse Oximetry", "level": "h4" },
+            { "type": "callout", "content": "Low oxygen levels can cause dizziness. We need to check if Marco's blood is carrying enough oxygen to his brain.", "style": "tip" },
+            { "type": "step", "content": "Check Oxygen and Pulse: Clip the sensor onto your index finger. Wait for a stable number (about 10 seconds). In your notebook, record SpO2 (oxygen %) and Pulse (heart rate). Try a different finger — does the reading change? Switch with your partner and repeat." },
+            { "type": "callout", "content": "Normal Ranges: SpO2 = 95-100% (below 95% means not enough oxygen) | Pulse = 60-100 BPM at rest (above 100 means the heart is working too hard)", "style": "tip" },
+            { "type": "heading", "content": "Sub-Station C: Stethoscope Technique", "level": "h4" },
+            { "type": "callout", "content": "Marco's chest tightness could be his heart or his lungs. The stethoscope lets you listen to both and start narrowing down the cause.", "style": "tip" },
+            { "type": "step", "content": "Listen to the Heart: Clean the earpieces with an alcohol wipe. Put the earpieces in with the tips angled forward (toward your nose). Place the flat part (diaphragm) on your partner's upper left chest. Listen for the heartbeat: LUB-DUB." },
+            { "type": "step", "content": "Listen to the Lungs: Move to the front of the chest (both sides), then the back (both sides). In your notebook, write down what you hear at each location. You should hear quiet, even breathing. Switch with your partner and repeat." },
+            { "type": "heading", "content": "Sub-Station D: Neurological Assessment", "level": "h4" },
+            { "type": "callout", "content": "Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that.", "style": "tip" },
+            { "type": "step", "content": "PERRLA Eye Exam: PERRLA stands for: Pupils Equal, Round, Reactive to Light, Accommodation. Dim the lights slightly, shine the penlight into your partner's left eye, and watch BOTH pupils — they should both get smaller. Repeat with the right eye." },
+            { "type": "step", "content": "Patellar Reflex (Knee Jerk): Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee — is the response the same on both sides?" },
+            { "type": "checklist", "items": [{ "text": "I completed all four sub-stations and recorded my data in my notebook" }] }
+          ]
+        },
+        {
+          "style": "gold",
+          "title": "Phase 3: Data Collection & Analysis",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "Raw numbers don't help a patient. You need to figure out what they MEAN by comparing them to normal ranges." },
+            { "type": "step", "content": "Compile Your Findings: In your notebook, create a table with columns for each vital sign (resting BP, stress BP, recovery BP, SpO2, pulse rate, pupil response, and reflexes), your reading, the normal range, and whether it's normal. Transfer all of your readings into this table and compare each one to the normal range." },
+            { "type": "step", "content": "Test Your Interpretation: You've collected the raw numbers. Now see if you can interpret them like a doctor. Enter different vital sign values into the app and watch how the classifications change. Pay attention to where normal ends and danger begins — that boundary is where clinical judgment lives." },
+            { "type": "app", "url": "apps/vital-signs-interpreter.html", "title": "Vital Signs Interpreter", "embed": true },
+            { "type": "step", "content": "Which readings were outside the normal range?" },
+            { "type": "step", "content": "What could cause those abnormal readings?" },
+            { "type": "step", "content": "Based on everything you've measured, what do you think might be going on with Marco?" },
+            { "type": "checklist", "items": [{ "text": "I compiled my findings and tested my interpretation with the Vital Signs Interpreter" }] }
+          ]
+        },
+        {
+          "style": "neutral",
+          "title": "Phase 4: Connect Findings Back to the Patient",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've learned what normal looks like. Now compare that to Marco's actual numbers and see if your instincts were right." },
+            { "type": "callout", "content": "Marco's Actual ER Vitals\n\nThese are the real numbers from Marco's ER visit:\n\nBlood Pressure: 158/94 (Normal: less than 120/80)\nHeart Rate: 92 BPM (Normal: 60-100 BPM)\nSpO2: 96% (Normal: 95-100%)\nPupils: Equal and reactive\nReflexes: Normal (both sides)", "style": "info" },
+            { "type": "step", "content": "Compare Marco's BP to the classification chart. What stage is he in?" },
+            { "type": "step", "content": "Which of Marco's vitals worry you? Why?" },
+            { "type": "step", "content": "Your Team's Preliminary Assessment: Based on everything you know — Marco's symptoms, his family history, his smoking, and these vital signs — what do you think is going on with Marco? What should happen next?" },
+            { "type": "checklist", "items": [{ "text": "I analyzed Marco's vitals and wrote my team's assessment" }] }
+          ]
+        },
+        {
+          "style": "maroon",
+          "title": "Phase 5: Reflection & Career Connection",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "step", "content": "What was the most surprising thing you learned today?" },
+            { "type": "step", "content": "Which skill was hardest for you? What made it difficult?" },
+            { "type": "step", "content": "If you were Marco, what would you want your medical team to do next?" },
+            { "type": "callout", "content": "Career Spotlight: Paramedic / EMT\n\nParamedics are the first medical professionals on the scene in emergencies. They assess patients, provide life-saving treatment, and transport people to hospitals. Every skill you practiced today — vital signs, assessment, quick decision-making — is exactly what paramedics do every shift.\n\nEMT certification takes about 150 hours of training. Paramedic certification requires 1,200-1,800 hours. Median salary: $37,000-$50,000/year.", "style": "info" },
+            { "type": "video", "url": "SSr0ORHVVG4", "title": "Day in the Life of a Paramedic" },
+            { "type": "callout", "content": "Today's patient data and analysis feeds into your final case presentation in Session 6. Keep your notebook organized — you'll refer back to today's data throughout the program.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed Session 1" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Session 2: What's Inside",
+      "subtitle": "Cardiovascular Anatomy & Heart Dissection",
+      "duration": "",
+      "sections": [
+        {
+          "style": "teal",
+          "title": "Phase 1: Introduce the Patient Case",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "The human heart beats 100,000 times per day, pushing blood through 60,000 miles of vessels. One blockage in the wrong place and the whole system fails. Thats why knowing the anatomy isnt optional - its survival." },
+            { "type": "text", "content": "Today you go inside the heart." },
+            { "type": "callout", "content": "Today's Case Briefing:\n\nMarco's cardiac catheterization reveals that his LAD (Left Anterior Descending) artery is 85% blocked. This artery feeds the front wall of the left ventricle - the chamber that powers the entire body. Doctors call it the \"widow-maker\" because a complete blockage here is often fatal. Your mission: dissect a real sheep heart, trace the blood flow circuit, and understand exactly why Marco's blockage is so dangerous.", "style": "info" },
+            { "type": "video", "url": "ruM4Xxhx32U", "title": "How the Heart Works" },
+            { "type": "step", "content": "Why do doctors call the LAD the \"widow-maker\"?" },
+            { "type": "step", "content": "If Marco's artery is 85% blocked, what happens to his heart during exercise?" },
+            { "type": "step", "content": "What would you expect to find when you dissect the heart?" },
+            { "type": "checklist", "items": [{ "text": "I read the case briefing and discussed the questions" }] }
+          ]
+        },
+        {
+          "style": "coral",
+          "title": "Phase 2: Heart Dissection Lab",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "callout", "content": "Materials: Preserved sheep heart (formalin), Dissection tray and kit, Safety goggles, Disposable lab apron, Anatomical heart model, Probe and pins, Paper towels", "style": "info" },
+            { "type": "step", "content": "Orient Yourself: Heart Anatomy Explorer: Before you pick up a scalpel, explore the heart digitally. Use the Explore tab to learn the four chambers, major vessels, and valves. Then trace the blood flow circuit in the Blood Flow tab. This gives you a mental map so you know exactly what you're looking for when you open the real heart." },
+            { "type": "app", "url": "apps/heart-anatomy-explorer.html", "title": "Heart Anatomy Explorer", "embed": true },
+            { "type": "step", "content": "External Anatomy: Examine the outside of the heart before making any cuts. Locate the coronary arteries - those thin vessels on the surface that feed the heart muscle itself. Find the interventricular sulcus, the deep groove between ventricles. Identify the great vessels: the massive aorta leaving the top, the vena cava entering from above and below, the pulmonary arteries." },
+            { "type": "step", "content": "Open the Right Side: Make a careful incision along the right side. Open the right atrium and locate the tricuspid valve - three delicate flaps designed to handle low pressure blood heading to the lungs. Notice the walls: thin, delicate. This chamber has an easy job." },
+            { "type": "step", "content": "Open the Left Side: Open the left side and immediately you see it: the mitral valve, two tough flaps. Then the left ventricle. Compare the walls to what you just saw on the right - 2 to 3 times thicker. This muscle generates enough pressure to push blood to every cell in your body." },
+            { "type": "step", "content": "Trace the Blood Flow: Using a probe, trace the complete circuit: vena cava enters the right atrium, passes through the tricuspid valve into the right ventricle, exits through the pulmonary artery to the lungs, returns via pulmonary veins to the left atrium, passes through the mitral valve into the left ventricle, and exits through the aorta to the entire body." },
+            { "type": "step", "content": "Measure Wall Thickness: Using your ruler, measure the actual wall thickness of the right ventricle and the left ventricle. Record both measurements in your notebook. The left ventricle should be 2 - 3 times thicker. This is why an LAD blockage (which feeds the left ventricle) is so dangerous - the thickest, hardest-working muscle loses its blood supply." },
+            { "type": "callout", "content": "Did You Know? The human heart generates enough pressure to squirt blood 30 feet across a room. The left ventricle you are dissecting today is the powerhouse behind that force.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed the heart dissection and traced the blood flow circuit" }] }
+          ]
+        },
+        {
+          "style": "gold",
+          "title": "Phase 3: Data Collection & Analysis",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've dissected the heart and measured the walls. Now use the interactive tools to map what you found and analyze Marco's blockage." },
+            { "type": "step", "content": "Map the Blockage: Use the Heart Anatomy Explorer's Blockage Simulator tab - drag the slider to 85% to see exactly what happens to Marco's heart. Then on your anatomical model or diagram, mark where the LAD artery runs along the front of the heart. Shade the area of the left ventricle that would lose blood supply if the LAD were completely blocked." },
+            { "type": "step", "content": "Compare Chambers: Based on your dissection measurements, explain in 2 - 3 sentences why the left ventricle wall is thicker than the right. What does this tell you about the work each chamber does?" },
+            { "type": "checklist", "items": [{ "text": "I mapped the blockage and compared chamber measurements" }] }
+          ]
+        },
+        {
+          "style": "neutral",
+          "title": "Phase 4: Connect Findings Back to the Patient",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've seen the anatomy up close and mapped the blockage. Now connect your findings to Marco's real situation." },
+            { "type": "callout", "content": "Marco's Cardiology Report\n\nWhen Marco's LAD is 85% blocked, the front wall of his left ventricle is starving for oxygen. During exercise or stress, the heart muscle demands more oxygen than the narrowed artery can deliver. This causes the chest tightness Marco described (angina). If the blockage reaches 100%, that section of muscle dies within minutes - a myocardial infarction (heart attack). The left ventricle you measured today, the one with the thick muscular walls, is the chamber doing the most critical work. Losing it means the body cannot circulate blood effectively. This is why cardiologists treat LAD blockages so aggressively - stents, bypass surgery, medication - anything to restore blood flow before permanent damage occurs.", "style": "info" },
+            { "type": "step", "content": "Based on your dissection, why is the left ventricle the most dangerous place for a blockage?" },
+            { "type": "step", "content": "Marco's blockage is at 85%. What symptoms would you expect at 50%? At 100%?" },
+            { "type": "step", "content": "If you were Marco's cardiologist, what treatment would you recommend and why?" },
+            { "type": "checklist", "items": [{ "text": "I connected my dissection findings to Marco's diagnosis" }] }
+          ]
+        },
+        {
+          "style": "maroon",
+          "title": "Phase 5: Reflection & Career Connection",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "step", "content": "What surprised you most about the inside of the heart?" },
+            { "type": "step", "content": "How did holding a real heart change your understanding of cardiovascular disease?" },
+            { "type": "step", "content": "What would it be like to be the person who sees the 85% blockage on screen for the first time?" },
+            { "type": "callout", "content": "Career Spotlight: Cardiovascular Technologist\n\nCardiovascular technologists operate the imaging equipment that detected Marco's blockage. They perform echocardiograms, stress tests, and catheterization procedures. An associate's or bachelor's degree is required, with median salary of $60,000-$75,000/year.", "style": "info" },
+            { "type": "video", "url": "qpcp3j9I_LY", "title": "CV Technologist Career Spotlight" },
+            { "type": "callout", "content": "Keep your dissection notes and measurements - they connect directly to Marco's case in Sessions 4 and 5.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed Session 2" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Session 3: Close the Wound",
+      "subtitle": "Suturing Techniques",
+      "duration": "",
+      "sections": [
+        {
+          "style": "teal",
+          "title": "Phase 1: Introduce the Patient Case",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "Suturing is the difference between scarring and healing, between infection and safety. Its been the same technique for 5,000 years because the technique is perfect." },
+            { "type": "text", "content": "Today you learn to close a wound." },
+            { "type": "callout", "content": "Today's Case Briefing:\n\nSofia Reyes, 16, skateboards into a metal rail. 5cm laceration on her right forearm, deep enough to see fatty tissue. She's terrified. Her parents are watching. The window to close this without infection is 6 hours. Learn the instruments. Master the technique. Because when you're in the ER with a scared kid, you don't get a second chance.", "style": "info" },
+            { "type": "video", "url": "z8oWv-nVO6g", "title": "Simple Interrupted Suture Technique" },
+            { "type": "step", "content": "Why does Sofia have a 6-hour window to close this wound?" },
+            { "type": "step", "content": "What could happen if the wound is not closed properly?" },
+            { "type": "step", "content": "Beyond the physical repair, what does Sofia need from her medical team right now?" },
+            { "type": "checklist", "items": [{ "text": "I read the case briefing and discussed the questions" }] }
+          ]
+        },
+        {
+          "style": "coral",
+          "title": "Phase 2: Suturing Lab",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "callout", "content": "Materials: Suture practice kit (needle driver, tissue forceps, scissors), Suture packets (3-0 nylon with needle), Silicone suture practice pad, Bananas (for initial practice), Sharps container (safety - non-negotiable), Ruler for spacing, Gloves", "style": "info" },
+            { "type": "step", "content": "Surgical Dexterity Trainer App: Warm up your hand-eye coordination with the digital trainer before touching any instruments. Complete at least two rounds of the steady-hand trace and one round of precision targeting. This is harder than it looks." },
+            { "type": "app", "url": "apps/surgical-dexterity-trainer.html", "title": "Surgical Dexterity Trainer", "embed": true },
+            { "type": "step", "content": "Learn the Instruments: Hold the needle driver like a pen - the needle goes 2/3 from the tip. Tissue forceps? Like tweezers. Scissors? Blunt tips. These grips arent optional - theyre how you control what you're doing." },
+            { "type": "step", "content": "Banana Practice: Start on a banana skin - its forgiving. Make a small cut, then place 3 simple interrupted sutures. Enter at 90 degrees. Even passage through both sides. 5mm spacing. Get the motion right before you move to something that matters." },
+            { "type": "step", "content": "Suture Pad Practice: Move to the silicone pad - the pre-cut slits feel more like real tissue resistance. Place 3 simple interrupted sutures. Your goal: edges meet without overlapping, spacing is even, knots lie flat." },
+            { "type": "step", "content": "Instrument Tie: The hardest part is the instrument knot. First throw counterclockwise - wrap, grab, pull. Second throw clockwise - same motion, opposite direction. This creates a square knot. It will not slip." },
+            { "type": "callout", "content": "Did You Know? The oldest known sutures were found in an Egyptian mummy from 1100 BCE. Surgeons back then used linen thread - the technique was remarkably similar to what you are learning today.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I practiced suturing on both the banana and suture pad and tied instrument knots" }] }
+          ]
+        },
+        {
+          "style": "gold",
+          "title": "Phase 3: Data Collection & Analysis",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've practiced the technique. Now assess your own work and determine what quality suturing actually looks like." },
+            { "type": "step", "content": "Self-Assessment: Using the suturing rubric, score yourself 1 - 5 on spacing (even ~5mm apart), depth (consistent across stitches), tension (edges meet without blanching), and knot quality (flat and secure). Be honest - this is for your own improvement." },
+            { "type": "step", "content": "Plan Sofia's Treatment: Write a brief treatment plan: what suture type and size would you use? How many stitches? What post-care instructions would you give Sofia? What would you say to calm her down?" },
+            { "type": "checklist", "items": [{ "text": "I assessed my suturing skills and planned Sofia's treatment" }] }
+          ]
+        },
+        {
+          "style": "neutral",
+          "title": "Phase 4: Connect Findings Back to the Patient",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've practiced suturing and assessed your technique. Now see how a real ER team would handle Sofia's case." },
+            { "type": "callout", "content": "Sofia's ER Treatment\n\nSofia's laceration is 5cm on the forearm - a common ER presentation. The attending physician chooses 3-0 non-absorbable nylon suture (the same material you practiced with) because the forearm is not a high-tension area and the sutures will be removed in 5-7 days. Five to seven stitches, evenly spaced, will close this wound. But here is what separates a good doctor from a great one: bedside manner. Sofia is 16 and terrified. Before the first stitch, the doctor explains every step, acknowledges her fear, ensures the local anesthetic has fully numbed the area, and talks her through the process. The technical skill matters, but the human skill matters just as much.", "style": "info" },
+            { "type": "step", "content": "How does the doctor's suture choice compare to what you recommended in your treatment plan?" },
+            { "type": "step", "content": "Why does bedside manner matter as much as technical skill in Sofia's case?" },
+            { "type": "step", "content": "Based on your self-assessment scores, would you trust yourself to close Sofia's wound? What would you need to improve?" },
+            { "type": "checklist", "items": [{ "text": "I compared my treatment plan to the actual ER approach" }] }
+          ]
+        },
+        {
+          "style": "maroon",
+          "title": "Phase 5: Reflection & Career Connection",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "step", "content": "What was the hardest part of learning to suture? What made it difficult?" },
+            { "type": "step", "content": "How did it feel to work with real surgical instruments for the first time?" },
+            { "type": "step", "content": "Would you want to be the person responsible for closing wounds in an emergency?" },
+            { "type": "callout", "content": "Career Spotlight: Emergency Medicine Physician\n\nER physicians handle lacerations, fractures, cardiac emergencies, and everything in between. The path is long (4 years undergrad, 4 years med school, 3-4 years residency) but the salary reflects it ($300K-350K). Every skill you practiced today is part of their daily work.", "style": "info" },
+            { "type": "video", "url": "4QAXNIJvjyU", "title": "ER Doctor Career Spotlight" },
+            { "type": "callout", "content": "Your suturing skills come back in Session 6 during the surgical simulation stations. Keep practicing if you can!", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed Session 3" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Session 4: The Surgeon's Toolkit",
+      "subtitle": "Instruments, Sterile Technique & Team Roles",
+      "duration": "",
+      "sections": [
+        {
+          "style": "teal",
+          "title": "Phase 1: Introduce the Patient Case",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "The operating room is the safest place on Earth - not because of luck, but because every person, every instrument, every movement follows exact protocol. One deviation and someone gets hurt." },
+            { "type": "text", "content": "Welcome to Session 4 - today you learn the surgeon's world!" },
+            { "type": "callout", "content": "Today's Case Briefing:\n\nMarco Torres is heading to surgery. His diagnosis has expanded: in addition to the LAD blockage, imaging revealed gallstones causing inflammation. The surgical team will perform a laparoscopic cholecystectomy (gallbladder removal) through 3-4 tiny incisions. Before the first cut, the entire team scrubs in, gowns up, establishes sterile field, and runs the surgical timeout. Learn the instruments. Master sterile technique. Understand that every word on that timeout checklist protects your patient from disaster.", "style": "info" },
+            { "type": "video", "url": "PCgxuknwets", "title": "Inside the OR" },
+            { "type": "step", "content": "Why does the surgical team pause for a \"timeout\" before the first cut?" },
+            { "type": "step", "content": "What could go wrong if a sterile field is broken during surgery?" },
+            { "type": "step", "content": "Why is Marco's gallbladder surgery done laparoscopically instead of with a large incision?" },
+            { "type": "checklist", "items": [{ "text": "I read the case briefing and discussed the questions" }] }
+          ]
+        },
+        {
+          "style": "coral",
+          "title": "Phase 2: Sterile Technique & Instrument Training",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "callout", "content": "Materials: Sterile gloves (multiple sizes), Surgical instrument display set, Sterile drape (practice field), Printed instrument identification cards, Timer for communication drills, Laminated surgical team role cards", "style": "info" },
+            { "type": "step", "content": "Instrument ID Game App: Learn to identify 10 critical surgical instruments using the interactive game. Start with the study cards to learn each instrument's name, purpose, and key features. Then test yourself in the quiz mode and speed round. Goal: identify all 10 instruments correctly under time pressure." },
+            { "type": "app", "url": "apps/instrument-id-game.html", "title": "Instrument ID Game", "embed": true },
+            { "type": "step", "content": "Sterile Technique Practice: Practice closed gloving technique: with your gown sleeves still covering your hands, use one gloved hand to pull the second glove onto the other hand without any bare skin touching the outside of either glove. Remember the one-inch border rule: the outer 1 inch of any sterile drape is considered non-sterile." },
+            { "type": "step", "content": "Set Up a Sterile Field: Lay out the sterile drape on your work surface. Without breaking the sterile field, arrange instruments in the correct positions. Remember: if your bare hand crosses over the field, if you reach across it, or if you turn your back to it, the field is broken and must be re-established." },
+            { "type": "step", "content": "Surgical Team Roles: Assign roles within your group: Surgeon (leads, performs operation), Anesthesiologist (monitors vitals, head of table), Scrub Tech (manages sterile field, passes instruments), Circulating Nurse (connects OR to outside), First Assist (holds retractors). Practice the surgical timeout: verify correct patient, correct procedure, correct site, allergies, and equipment status." },
+            { "type": "step", "content": "Closed-Loop Communication Drill: Practice passing instruments using closed-loop communication. Surgeon says \"I need a hemostat.\" Scrub Tech repeats \"Hemostat\" while making eye contact and handing the instrument. Run through 10 instrument requests with a 3-second target per exchange." },
+            { "type": "callout", "content": "Did You Know? A surgical scrub nurse can hand the correct instrument to a surgeon in under 2 seconds - often before the surgeon finishes asking for it. That muscle memory takes years to develop.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I identified the instruments, practiced sterile technique, and completed the team simulation" }] }
+          ]
+        },
+        {
+          "style": "gold",
+          "title": "Phase 3: Data Collection & Analysis",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've practiced sterile technique and communication. Now analyze how these protocols prevent real surgical errors." },
+            { "type": "step", "content": "Error Analysis: Think about the communication drill you just completed. Were there any moments of confusion or delay? What would happen in a real OR if an instrument request was misheard during a critical moment of surgery?" },
+            { "type": "step", "content": "Design a Safety Protocol: Based on what you learned about the WHO Surgical Safety Checklist, write 3 additional safety checks you think should happen before, during, or after surgery. Explain why each one matters." },
+            { "type": "checklist", "items": [{ "text": "I analyzed communication errors and designed safety protocols" }] }
+          ]
+        },
+        {
+          "style": "neutral",
+          "title": "Phase 4: Connect Findings Back to the Patient",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've learned the instruments, mastered sterile technique, and practiced team communication. Now see how these protocols protect Marco in the real OR." },
+            { "type": "callout", "content": "Marco's Surgical Safety Record\n\nIn 2007, the World Health Organization launched the Surgical Safety Checklist after research showed that simple communication failures caused more surgical errors than technical mistakes. A study of 8 hospitals across 8 countries found that the checklist reduced surgical complications by 36% and deaths by 47%. The timeout - that 60-second pause before the first incision where everyone confirms patient identity, procedure, and site - has prevented thousands of wrong-site surgeries. Closed-loop communication, where the receiver repeats back what was requested, catches misheard instructions before they become errors. These are not high-tech solutions. They are human solutions to human problems.", "style": "info" },
+            { "type": "step", "content": "Write Marco's surgical timeout: state his name, procedure, surgical site, allergies, and equipment needed." },
+            { "type": "step", "content": "A 36% reduction in complications saved how many patients across 8 hospitals? Why does a simple checklist work so well?" },
+            { "type": "step", "content": "During your team simulation, what was the biggest communication challenge? How would you fix it in a real OR?" },
+            { "type": "checklist", "items": [{ "text": "I connected safety protocols to Marco's surgical case" }] }
+          ]
+        },
+        {
+          "style": "maroon",
+          "title": "Phase 5: Reflection & Career Connection",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "step", "content": "What surprised you most about how an OR actually works?" },
+            { "type": "step", "content": "Which OR team role appealed to you most? Why?" },
+            { "type": "step", "content": "What personality traits make someone good at working in the operating room?" },
+            { "type": "callout", "content": "Career Spotlight: Operating Room Nurse\n\nOperating room nurses coordinate the entire surgical team, manage supplies, and serve as the patient's advocate while they are under anesthesia. They are the backbone of every surgery. BSN required, with median salary of $80,000-$100,000/year.", "style": "info" },
+            { "type": "video", "url": "ILuQqEt_wUw", "title": "OR Nurse Career Spotlight" },
+            { "type": "callout", "content": "Your instrument knowledge and sterile technique skills carry directly into Session 5's laparoscopic challenge.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed Session 4" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Session 5: Laparoscopic Mastery",
+      "subtitle": "Hand-Eye Coordination & the Fulcrum Effect",
+      "duration": "",
+      "sections": [
+        {
+          "style": "teal",
+          "title": "Phase 1: Introduce the Patient Case",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "Modern surgery has moved away from large incisions. Laparoscopic surgery uses 3-4 tiny cuts (about 1/4 inch each) and long instruments guided by a camera on a screen. The recovery time drops from weeks to days. But there is a catch: the fulcrum effect reverses every movement." },
+            { "type": "text", "content": "Welcome to Session 5 - today is Marco's surgery day, and you are the surgeon!" },
+            { "type": "callout", "content": "Today's Case Briefing:\n\nMarco Torres is prepped for laparoscopic cholecystectomy. Three small incisions, a camera, and long instruments will be your only tools. But here is what nobody tells you: when you push your hand LEFT, the instrument tip goes RIGHT. When you push DOWN, the tip goes UP. The port in the abdominal wall acts as a pivot point that reverses every movement - like using chopsticks through a keyhole while watching on a TV screen. This is why laparoscopic surgery requires hundreds of hours of practice. Your mission: experience the fulcrum effect firsthand using real laparoscopic training boxes.", "style": "info" },
+            { "type": "video", "url": "IB_NMkMF-qU", "title": "Laparoscopic Surgery Overview" },
+            { "type": "step", "content": "Why does laparoscopic surgery reverse every hand movement?" },
+            { "type": "step", "content": "Why would a patient prefer 3 tiny cuts over one large incision?" },
+            { "type": "step", "content": "What skills from Sessions 1-4 will you need today?" },
+            { "type": "checklist", "items": [{ "text": "I read the case briefing and discussed the questions" }] }
+          ]
+        },
+        {
+          "style": "coral",
+          "title": "Phase 2: Laparoscopic Training Lab",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "callout", "content": "Materials: Laparoscopic training box with camera, Portable monitor (USB-C/HDMI), Laparoscopic graspers and scissors, Training modules (shapes, pegs, gauze), Timer, LED clip light (optional)", "style": "info" },
+            { "type": "step", "content": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box. The fulcrum effect is disorienting, so start with 2 rounds of precision targeting to calibrate your fine motor skills. Notice how even on a flat screen, small movements require concentration." },
+            { "type": "app", "url": "apps/surgical-dexterity-trainer.html", "title": "Surgical Dexterity Trainer", "embed": true },
+            { "type": "step", "content": "Challenge 1 - Object Transfer: Pick up 6 colored shapes from the left row using one grasper. Transfer each shape hand-to-hand in mid-air (pass from one instrument to the other without dropping). Place on the right row. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing." },
+            { "type": "step", "content": "Challenge 2 - Shape Removal and Replacement: Phase 1: Remove all shapes from the board in 3 minutes. Memorize their original positions. Phase 2: Replace all shapes in their original positions in 3 minutes. This tests spatial memory and precision placement using only camera guidance." },
+            { "type": "step", "content": "Challenge 3 - Precision Cutting: Using the laparoscopic scissors, cut a circle from gauze as close to the drawn line as possible. Time limit: 5 minutes. You will be scored on how closely your cut follows the line. Remember: every movement is reversed." },
+            { "type": "step", "content": "Record and Reflect: In your notebook, record your time for each challenge and any errors or fumbles. Rate your frustration level honestly on a scale of 1-10. Consider this: Marco's surgeon completes the entire cholecystectomy in 30-45 minutes. That level of skill represents thousands of practice hours. The da Vinci surgical robot was invented partly to solve the fulcrum problem - it translates 1:1 movements, provides 3D vision, and filters out hand tremor." },
+            { "type": "callout", "content": "Did You Know? The da Vinci surgical robot can filter out a surgeon's natural hand tremor, allowing movements precise to under 1 millimeter. It costs about 2 million per unit.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed the laparoscopic training challenges and recorded my results in my notebook" }] }
+          ]
+        },
+        {
+          "style": "gold",
+          "title": "Phase 3: Data Collection & Analysis",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've experienced the fulcrum effect firsthand. Now analyze your performance data and see what it reveals about motor learning." },
+            { "type": "step", "content": "Data Analysis: Look at your recorded times and error counts in your notebook across the three challenges. Did you improve between your first attempt and last attempt at any challenge? What does this tell you about motor learning and the brain's ability to adapt?" },
+            { "type": "step", "content": "Technology vs. Training: The da Vinci surgical robot costs $2 million and eliminates the fulcrum effect entirely. Should hospitals invest in robots, or invest in training surgeons to master traditional laparoscopy? Write 2-3 sentences defending your position." },
+            { "type": "checklist", "items": [{ "text": "I analyzed my performance data and compared training approaches" }] }
+          ]
+        },
+        {
+          "style": "neutral",
+          "title": "Phase 4: Connect Findings Back to the Patient",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've felt the difficulty of laparoscopic surgery. Now understand the real stakes for patients like Marco." },
+            { "type": "callout", "content": "Marco's Surgical Outcome\n\nLaparoscopic surgery was revolutionary when it was introduced in the 1980s. Patients who once spent weeks recovering from open abdominal surgery could go home the next day. But the learning curve was steep and dangerous. Early studies showed that surgeons made significantly more errors during their first 50 laparoscopic procedures compared to their first 50 open surgeries. The fulcrum effect, the loss of depth perception (2D screen vs. 3D reality), and the reduced tactile feedback created a perfect storm of difficulty. Today, surgical simulation training (like what you just experienced) is mandatory before residents touch a real patient. The training boxes and virtual simulators have been proven to reduce errors by over 40%.", "style": "info" },
+            { "type": "step", "content": "Marco's surgeon completes the cholecystectomy in 30-45 minutes. Based on your experience, how many practice hours do you think that requires?" },
+            { "type": "step", "content": "If simulation training reduces errors by 40%, should it be required for all surgeons? What are the tradeoffs?" },
+            { "type": "step", "content": "Marco could have had open surgery instead. Why did his team choose laparoscopic? What are the risks and benefits for him specifically?" },
+            { "type": "checklist", "items": [{ "text": "I connected my training experience to Marco's surgical outcome" }] }
+          ]
+        },
+        {
+          "style": "maroon",
+          "title": "Phase 5: Reflection & Career Connection",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "step", "content": "What was your frustration level during the laparoscopic challenges? What does that tell you about surgical training?" },
+            { "type": "step", "content": "Did your performance improve across the challenges? What does that reveal about how the brain adapts?" },
+            { "type": "step", "content": "Do you prefer the engineering side of medicine or the hands-on patient care side?" },
+            { "type": "callout", "content": "Career Spotlight: Biomedical Equipment Technician (BMET)\n\nBMETs maintain and repair all the equipment you used today - training boxes, cameras, monitors, and even surgical robots. An associate's degree is required, with median salary of $55K-65K/year. Without BMETs, no surgery happens.", "style": "info" },
+            { "type": "video", "url": "p-cOdoy43WA", "title": "BMET Career Spotlight" },
+            { "type": "callout", "content": "Session 6 brings together everything: vital signs, anatomy, suturing, instruments, and laparoscopy in one final simulation.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed Session 5" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Session 6: The Final Case",
+      "subtitle": "Triage, Simulation & Graduation",
+      "duration": "",
+      "sections": [
+        {
+          "style": "teal",
+          "title": "Phase 1: Introduce the Patient Case",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "In a mass casualty event, resources are limited and time is critical. Triage - the process of sorting patients by the severity of their condition - determines who gets treated first, who can wait, and who cannot be saved. It is the hardest decision in medicine." },
+            { "type": "text", "content": "Welcome to your final session - today everything comes together!" },
+            { "type": "callout", "content": "Today's Case Briefing:\n\nA charter bus carrying a high school debate team has collided with a delivery truck. Fourteen students were on board; six are injured with varying severity. Paramedics are 15 minutes away. You are the first responders on scene. You have 15 minutes to assess all six patients, take vital signs, and assign triage tags: RED (immediate life threat - treat first), YELLOW (serious but stable - treat second), GREEN (walking wounded - treat last), or BLACK (expectant - comfort care only). After triage, you will rotate through three surgical simulation stations testing the skills from Sessions 3-5. Then each team presents their triage decisions to the group.", "style": "info" },
+            { "type": "video", "url": "73kJ-4gEsnA", "title": "Mass Casualty Triage - START Method" },
+            { "type": "step", "content": "With 6 patients and 15 minutes, how much time do you have per patient? How will you prioritize?" },
+            { "type": "step", "content": "What vital signs would you check first to determine who is most critical?" },
+            { "type": "step", "content": "What makes triage the hardest decision in medicine?" },
+            { "type": "checklist", "items": [{ "text": "I read the case briefing and discussed the questions" }] }
+          ]
+        },
+        {
+          "style": "coral",
+          "title": "Phase 2: Triage & Simulation Stations",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "callout", "content": "Materials: Printed patient scenario cards (6 patients), BP cuff and pulse oximeter (per station), Triage color tags (red, yellow, green, black), Suture practice pads and kits, Laparoscopic training box, Timer", "style": "info" },
+            { "type": "step", "content": "Triage Simulator App: Before the live simulation, practice triage decision-making with the digital simulator. Multiple patients arrive with vital signs and descriptions. Assign the correct triage color and check your reasoning. Speed matters - paramedics are on the way." },
+            { "type": "app", "url": "apps/triage-simulator.html", "title": "Triage Simulator", "embed": true },
+            { "type": "step", "content": "Triage Assessment (15 minutes): Visit each of the 6 patient stations. Read the scenario card aloud, measure vital signs (BP, HR, SpO2, temperature), perform a quick physical assessment (PERRLA, motor/sensory check, or lung auscultation as appropriate), record your findings in your notebook, and assign a triage color. In your notebook, draw a table with columns for Patient, Vital Signs, Assessment, Triage Color, and Priority Rank. Rank all 6 patients from 1 (most critical) to 6 (least critical)." },
+            { "type": "step", "content": "Station A - Suturing Under Pressure: Place 3 simple interrupted sutures in the practice pad laceration. 5-minute time limit. Scored on speed, technique, and cosmetic result. This is Session 3 under real-time pressure." },
+            { "type": "step", "content": "Station B - Laparoscopic Final Challenge: Complete the object transfer challenge plus one additional challenge of your choice. 5-minute time limit. The fulcrum effect does not get easier under pressure." },
+            { "type": "step", "content": "Station C - Blindfolded Communication: One teammate is blindfolded and holds the laparoscopic graspers. The other two give ONLY verbal directions (no touching, no pointing). Move 3 objects to target zones in 6 minutes. This tests closed-loop communication, trust, and teamwork under constraints." },
+            { "type": "step", "content": "Grand Rounds Presentation: Each team presents for 3-4 minutes: state your top 3 most critical patients in rank order. For each patient, cite 2-3 key vital signs or findings and explain your reasoning using clinical knowledge from all 6 sessions." },
+            { "type": "callout", "content": "Did You Know? During the 2010 Haiti earthquake, field medics triaged over 3,000 patients in the first 72 hours using the same START system you are learning today.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed the triage assessment, simulation stations, and team presentation" }] }
+          ]
+        },
+        {
+          "style": "gold",
+          "title": "Phase 3: Data Collection & Analysis",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You've triaged six patients and rotated through simulation stations. Now use the tools to verify your decisions with data." },
+            { "type": "step", "content": "Triage Debrief: Open the Vital Signs Interpreter app one final time. Enter hypothetical critical vitals: BP 88/54, HR 144, SpO2 89%, Temp 98.2. What does the app classify each reading as? Consider how these classifications guided your triage decisions." },
+            { "type": "app", "url": "apps/vital-signs-interpreter.html", "title": "Vital Signs Interpreter", "embed": true },
+            { "type": "checklist", "items": [{ "text": "I verified my triage decisions using the Vital Signs Interpreter" }] }
+          ]
+        },
+        {
+          "style": "neutral",
+          "title": "Phase 4: Connect Findings Back to the Patient",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "text", "content": "You made triage decisions under pressure. Now see the clinical reasoning behind the correct tags and compare your choices." },
+            { "type": "callout", "content": "Triage Results Analysis\n\nThe triage decisions you just made are among the hardest in medicine. Consider Lena (13): crushing injuries, BP 88/54 (shock), HR 144, SpO2 89%. Those numbers together scream hypovolemic shock from internal bleeding - RED tag, treat first. Or James (14): deep thigh laceration, BP 98/62, HR 132 - hemorrhagic shock, also RED. But what about Ms. Chen, the bus driver, with BP 166/102 and chest pain? Is she having a cardiac event or a stress response? YELLOW or RED? These are real decisions that paramedics and ER physicians make every day. There is no perfect answer - only the best answer with the information available.", "style": "info" },
+            { "type": "step", "content": "Compare your triage tags to the clinical reasoning above. Did you get Lena and James right? What about Ms. Chen?" },
+            { "type": "step", "content": "Which patient was the hardest to tag? What made the decision so difficult?" },
+            { "type": "step", "content": "What skill from the past 5 sessions helped you the most during today's simulation?" },
+            { "type": "checklist", "items": [{ "text": "I compared my triage decisions to the clinical analysis" }] }
+          ]
+        },
+        {
+          "style": "maroon",
+          "title": "Phase 5: Reflection & Career Connection",
+          "duration": "",
+          "instructorNotes": "",
+          "blocks": [
+            { "type": "step", "content": "What was the most difficult moment of today's simulation? How did you handle it?" },
+            { "type": "step", "content": "Looking back across all 6 sessions, which skill are you most proud of learning?" },
+            { "type": "step", "content": "Will you pursue healthcare as a career? What role interests you most and why?" },
+            { "type": "callout", "content": "Your Medical Journey\n\nOver six sessions, you've measured vital signs like a paramedic, dissected a heart like an anatomist, sutured wounds like a surgeon, managed an operating room like an OR nurse, performed laparoscopic surgery like a minimally invasive specialist, and triaged a mass casualty like an emergency physician. These aren't just activities -- they're the real skills that real medical professionals use every day. Whether you pursue medicine, nursing, biomedical engineering, or something else entirely, you now understand what it means to hold someone's health in your hands.", "style": "info" },
+            { "type": "video", "url": "RaWl6-l-t4g", "title": "EM Physician Career Spotlight" },
+            { "type": "callout", "content": "Congratulations! You have completed Mini Med School. Over 6 sessions, you mastered vital signs, heart anatomy, suturing, surgical instruments, laparoscopic technique, and emergency triage. Collect your certificate and celebrate your growth.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed Session 6 and Mini Med School" }] }
+          ]
+        }
+      ]
+    }
+  ]
+}
