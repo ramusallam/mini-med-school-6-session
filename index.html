@@ -792,140 +792,255 @@
           <div class="pg-label" id="pt-1">0%</div>
         </div>
 
-        <!-- PART I: THE HOOK -->
+        <!-- PHASE 1: INTRODUCE THE PATIENT CASE -->
         <div class="sc type-hook fade">
           <div class="part-heading">
-            <span class="part-num part-num-hook">Part I</span>
-            <h2 class="part-title">The Hook</h2>
+            <span class="part-num part-num-hook">Phase 1</span>
+            <h2 class="part-title">Introduce the Patient Case</h2>
           </div>
-          <p>Vital signs are the first language of medicine. A single set of numbers - blood pressure, heart rate, oxygen level, temperature - tells an experienced clinician whether a patient is stable or crashing. Its how paramedics decide who leaves the ER and who goes to the OR. Its how surgeons monitor you before surgery. Its how nurses catch a problem before it becomes a crisis. The skill takes minutes to learn. The judgment takes a lifetime.</p>
-          <p>Welcome to your first shift.</p>
+          <p>You're about to meet a real patient. Everything you learn today starts with his story.</p>
           <div class="case-callout">
-            <div class="case-callout-label">Today's Case Briefing:</div>
-            <p>Marco Torres, a 45-year-old construction foreman, arrives at the emergency department complaining of three days of dizziness, chest tightness, and a tingling sensation in his left arm. He is a smoker, and his father had a heart attack at age 52. Your job: take a full set of vital signs, assess his neurological function, and determine whether his body is telling you something dangerous.</p>
-          </div>
-          <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/llosVAoeojQ" loading="lazy" allowfullscreen title="Vital Signs Measurement"></iframe></div>
-          <div class="part-check">
-            <input type="checkbox" id="cb-1">
-            <label for="cb-1">I read the case briefing and watched the video</label>
-          </div>
-        </div>
-
-        <!-- PART II: THE PHYSICAL LAB -->
-        <div class="sc type-lab fade">
-          <div class="part-heading">
-            <span class="part-num part-num-lab">Part II</span>
-            <h2 class="part-title">The Physical Lab</h2>
-          </div>
-          <div class="materials-box">
-            <div class="materials-title">Materials Needed</div>
-            <div class="materials-list">
-              <span>Automatic BP cuff</span>
-              <span>Fingertip pulse oximeter</span>
-              <span>Stethoscope</span>
-              <span>Penlight</span>
-              <span>Reflex hammer</span>
-              <span>Patient data recording sheet</span>
-            </div>
+            <div class="case-callout-label">Your Patient: Marco Torres</div>
+            <p><strong>Name:</strong> Marco Torres<br><strong>Age:</strong> 45 &nbsp; <strong>Occupation:</strong> Construction Foreman</p>
+            <p><strong>Why he's here:</strong> Marco has been dizzy for 3 days. He feels tightness in his chest when he climbs stairs. His left arm has been tingling.</p>
+            <p><strong>What else you should know:</strong> He smokes half a pack of cigarettes a day. He works long hours in a high-stress job. His father had a heart attack at age 52.</p>
+            <p style="color:#E65C3C; font-weight:600;">Your mission: You are Marco's medical team. Run a complete assessment — vital signs, heart, lungs, neuro — and figure out what's going on.</p>
           </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">1</span>
-              <span class="step-title">Vital Signs Interpreter App</span>
-            </div>
-            <div class="step-instructions">Start with the interactive app - you need to know what normal looks like before you can spot danger. Enter different values for blood pressure, heart rate, SpO2, and temperature to see how the classifications change. Notice the moment the color shifts from green to red - thats a clinical alarm.</div>
-            <div class="app-section">
-              <button class="app-toggle-btn" onclick="toggleApp('ap-1-vsi')">&#9654; Launch: Vital Signs Interpreter<span class="app-arrow" id="arrow-ap-1-vsi">&#9660;</span></button>
-              <div class="app-wrapper" id="ap-1-vsi">
-                <iframe class="app-iframe" data-src="apps/vital-signs-interpreter.html" title="Vital Signs Interpreter"></iframe>
-              </div>
+              <span class="step-title">What concerns you most about Marco? Why?</span>
             </div>
           </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">2</span>
-              <span class="step-title">Measure Blood Pressure</span>
+              <span class="step-title">If you were the ER team, what would you check first? Why?</span>
             </div>
-            <div class="step-desc">Using the automatic BP cuff, measure your partner's resting blood pressure. Record the systolic (top number) and diastolic (bottom number). Normal for a teen: around 110/70. Then have your partner do 30 jumping jacks and immediately re-measure. How much did the numbers change?</div>
           </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">3</span>
+              <span class="step-title">What does his family history tell you?</span>
+            </div>
+          </div>
+          <div class="part-check">
+            <input type="checkbox" id="cb-1">
+            <label for="cb-1">I read the patient case and discussed the questions</label>
+          </div>
+        </div>
+
+        <!-- PHASE 2: SKILLS STATION — VITAL SIGNS -->
+        <div class="sc type-lab fade">
+          <div class="part-heading">
+            <span class="part-num part-num-lab">Phase 2</span>
+            <h2 class="part-title">Skills Station — Vital Signs</h2>
+          </div>
+          <div class="materials-box">
+            <div class="materials-title">Materials Needed</div>
+            <div class="materials-list">
+              <span>Automatic BP cuff (or manual cuff + stethoscope)</span>
+              <span>Fingertip pulse oximeter</span>
+              <span>Stethoscope</span>
+              <span>Penlight</span>
+              <span>Reflex hammer</span>
+              <span>Alcohol wipes</span>
+              <span>Patient data recording sheet</span>
+            </div>
+          </div>
+
+          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station A: Blood Pressure Investigation</h4>
+          <div class="callout">Marco reports dizziness and chest tightness. High blood pressure could explain both — and it's the #1 risk factor for heart attacks.</div>
+          <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/llosVAoeojQ" loading="lazy" allowfullscreen title="How to Take Blood Pressure"></iframe></div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">1</span>
+              <span class="step-title">Measure Resting BP</span>
+            </div>
+            <div class="step-desc">Wrap the cuff snugly around your partner's bare upper arm, just above the elbow. Press START and stay completely still and quiet until the reading appears. Record the systolic (top number) and diastolic (bottom number).</div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">2</span>
+              <span class="step-title">The Experiment</span>
+            </div>
+            <div class="step-desc">Do 2 minutes of jumping jacks. Immediately measure again and record your stress BP. Wait 3 minutes, then measure one more time for your recovery BP. Switch roles with your partner and repeat.</div>
+          </div>
+          <div style="background:#f0faf9; border:1px solid #d0e8e5; border-radius:10px; padding:12px 16px; margin:14px 0; font-size:0.85rem; color:#1A6B6B;">
+            <strong>BP Classification:</strong> Normal = less than 120/80 &nbsp;|&nbsp; Elevated = 120-129 &nbsp;|&nbsp; Stage 1 Hypertension = 130-139/80-89 &nbsp;|&nbsp; Stage 2 Hypertension = 140+/90+ &nbsp;|&nbsp; Crisis = 180+/120+ (call 911)
+          </div>
+
+          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station B: Pulse Oximetry</h4>
+          <div class="callout">Low oxygen levels can cause dizziness. We need to check if Marco's blood is carrying enough oxygen to his brain.</div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">3</span>
               <span class="step-title">Check Oxygen and Pulse</span>
             </div>
-            <div class="step-desc">Clip the pulse oximeter onto your partner's fingertip. Record the SpO2 percentage (should be 96-100%) and the heart rate. Compare the resting heart rate to the post-exercise rate.</div>
+            <div class="step-desc">Clip the sensor onto your index finger. Wait for a stable number (about 10 seconds). Record SpO2 (oxygen %) and Pulse (heart rate). Try a different finger — does the reading change? Switch with your partner and repeat.</div>
           </div>
+          <div style="background:#f0faf9; border:1px solid #d0e8e5; border-radius:10px; padding:12px 16px; margin:14px 0; font-size:0.85rem; color:#1A6B6B;">
+            <strong>Normal Ranges:</strong> SpO2 = 95-100% (below 95% means not enough oxygen) &nbsp;|&nbsp; Pulse = 60-100 BPM at rest (above 100 means the heart is working too hard)
+          </div>
+
+          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station C: Stethoscope Technique</h4>
+          <div class="callout">Marco's chest tightness could be his heart or his lungs. The stethoscope lets you listen to both and start narrowing down the cause.</div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">4</span>
-              <span class="step-title">Listen with the Stethoscope</span>
+              <span class="step-title">Listen to the Heart</span>
             </div>
-            <div class="step-desc">Place the stethoscope diaphragm on the left side of your partner's chest, just below the collarbone. Listen for the LUB-DUB rhythm. The LUB is the AV valves closing; the DUB is the semilunar valves closing. Can you hear both sounds clearly? Try the back of the chest for lung sounds - you should hear quiet, even breathing.</div>
+            <div class="step-desc">Clean the earpieces with an alcohol wipe. Put the earpieces in with the tips angled forward (toward your nose). Place the flat part (diaphragm) on your partner's upper left chest. Listen for the heartbeat: LUB-DUB.</div>
           </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">5</span>
-              <span class="step-title">Neurological Quick Check</span>
+              <span class="step-title">Listen to the Lungs</span>
             </div>
-            <div class="step-desc">Use the penlight to check pupil response (PERRLA: Pupils Equal, Round, Reactive to Light and Accommodation). Tap below the kneecap with the reflex hammer and observe the involuntary kick. Record whether both pupils react equally and whether both knees respond the same way.</div>
+            <div class="step-desc">Move to the front of the chest (both sides), then the back (both sides). Record what you hear at each location. You should hear quiet, even breathing. Switch with your partner and repeat.</div>
           </div>
-          <div style="background:#f0faf9; border:1px solid #d0e8e5; border-radius:10px; padding:12px 16px; margin:14px 0; font-size:0.85rem; color:#1A6B6B;">
-            <strong>Did You Know?</strong> Your heart beats about 100,000 times per day - that is roughly 35 million times per year. By age 70, it will have beaten over 2.5 billion times without a single break.
+
+          <h4 style="color:#1A6B6B; border-bottom:2px solid #e0ebe9; padding-bottom:6px; margin:18px 0 10px;">Sub-Station D: Neurological Assessment</h4>
+          <div class="callout">Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that.</div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">6</span>
+              <span class="step-title">PERRLA Eye Exam</span>
+            </div>
+            <div class="step-desc">PERRLA stands for: Pupils Equal, Round, Reactive to Light, Accommodation. Dim the lights slightly, shine the penlight into your partner's left eye, and watch BOTH pupils — they should both get smaller. Repeat with the right eye.</div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">7</span>
+              <span class="step-title">Patellar Reflex (Knee Jerk)</span>
+            </div>
+            <div class="step-desc">Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee — is the response the same on both sides?</div>
           </div>
           <div class="part-check">
             <input type="checkbox" id="cb-2">
-            <label for="cb-2">I explored the Vital Signs Interpreter app and completed the vital signs assessment</label>
+            <label for="cb-2">I completed all four sub-stations and recorded my data</label>
           </div>
         </div>
 
-        <!-- PART III: AI & DIGITAL LITERACY -->
+        <!-- PHASE 3: DATA COLLECTION & ANALYSIS -->
         <div class="sc type-digital fade">
           <div class="part-heading">
-            <span class="part-num part-num-digital">Part III</span>
-            <h2 class="part-title">AI & Digital Literacy</h2>
+            <span class="part-num part-num-digital">Phase 3</span>
+            <h2 class="part-title">Data Collection & Analysis</h2>
           </div>
-          <div class="case-callout">
-            <div class="case-callout-label">Case Study:</div>
-            <p>Marco's actual vitals come back: BP 158/94 (Stage 2 Hypertension), HR 92 BPM, SpO2 96% (low end of normal), pupils equal and reactive, reflexes normal. Those numbers, combined with his symptoms and family history, paint a concerning picture. His blood pressure is dangerously high - the heart is working too hard. His oxygen is borderline. The dizziness and chest tightness could mean his heart is not getting enough blood flow. This is where vital signs stop being numbers on a screen and become a real clinical decision: does Marco need further cardiac testing?</p>
-          </div>
-          <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/SSr0ORHVVG4" loading="lazy" allowfullscreen title="Paramedic Career Spotlight"></iframe></div>
+          <p>Raw numbers don't help a patient. You need to figure out what they MEAN by comparing them to normal ranges.</p>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">1</span>
-              <span class="step-title">Classify Marco's Vitals</span>
+              <span class="step-title">Compile Your Findings</span>
             </div>
-            <div class="step-desc">Open the Vital Signs Interpreter app again. Enter Marco's actual vitals: BP 158/94, HR 92, SpO2 96%, Temp 98.6. What classifications does the app give? Do you agree with the assessment?</div>
+            <div class="step-desc">Transfer all of your readings into your recording sheet: resting BP, stress BP, recovery BP, SpO2, pulse rate, pupil response, and reflexes. Compare each one to the normal range.</div>
+          </div>
+          <div class="app-section">
+            <button class="app-toggle-btn" onclick="toggleApp('ap-1-vsi')">&#9654; Launch: Vital Signs Interpreter<span class="app-arrow" id="arrow-ap-1-vsi">&#9660;</span></button>
+            <div class="app-wrapper" id="ap-1-vsi">
+              <iframe class="app-iframe" data-src="apps/vital-signs-interpreter.html" title="Vital Signs Interpreter"></iframe>
+            </div>
           </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">2</span>
-              <span class="step-title">Compare to Your Own</span>
+              <span class="step-title">Which readings were outside the normal range?</span>
             </div>
-            <div class="step-desc">Enter your own resting vitals into the app. How do they compare to Marco's? What does the difference tell you about cardiovascular health?</div>
           </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">3</span>
-              <span class="step-title">Career Connection</span>
+              <span class="step-title">What could cause those abnormal readings?</span>
             </div>
-            <div class="step-desc">Paramedics and EMTs are the first healthcare professionals to assess vital signs in the field. They make rapid decisions based on exactly the skills you practiced today. Watch the career spotlight video and think about what drew these professionals to emergency medicine.</div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">4</span>
+              <span class="step-title">Based on everything you've measured, what do you think might be going on with Marco?</span>
+            </div>
           </div>
           <div class="part-check">
             <input type="checkbox" id="cb-3">
-            <label for="cb-3">I analyzed Marco's vitals and explored the career connection</label>
+            <label for="cb-3">I compiled my findings and tested my interpretation with the Vital Signs Interpreter</label>
           </div>
         </div>
 
-        <!-- PART IV: END OF DAY -->
-        <div class="sc type-wrap fade">
+        <!-- PHASE 4: CONNECT FINDINGS BACK TO THE PATIENT -->
+        <div class="sc type-hook fade">
           <div class="part-heading">
-            <span class="part-num part-num-wrap">Part IV</span>
-            <h2 class="part-title">End of Day</h2>
+            <span class="part-num part-num-hook">Phase 4</span>
+            <h2 class="part-title">Connect Findings Back to the Patient</h2>
           </div>
-          <div class="callout">Today's patient data and analysis feeds into your final case presentation in Session 6. Keep your recording sheet organized!</div>
+          <p>You've learned what normal looks like. Now compare that to Marco's actual numbers and see if your instincts were right.</p>
+          <div class="case-callout">
+            <div class="case-callout-label">Marco's Actual ER Vitals</div>
+            <p>These are the real numbers from Marco's ER visit:</p>
+            <p><strong>Blood Pressure:</strong> 158/94 (Normal: less than 120/80)<br>
+            <strong>Heart Rate:</strong> 92 BPM (Normal: 60-100 BPM)<br>
+            <strong>SpO2:</strong> 96% (Normal: 95-100%)<br>
+            <strong>Pupils:</strong> Equal and reactive<br>
+            <strong>Reflexes:</strong> Normal (both sides)</p>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">1</span>
+              <span class="step-title">Compare Marco's BP to the classification chart. What stage is he in?</span>
+            </div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">2</span>
+              <span class="step-title">Which of Marco's vitals worry you? Why?</span>
+            </div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">3</span>
+              <span class="step-title">Your Team's Preliminary Assessment</span>
+            </div>
+            <div class="step-desc">Based on everything you know — Marco's symptoms, his family history, his smoking, and these vital signs — what do you think is going on with Marco? What should happen next?</div>
+          </div>
           <div class="part-check">
             <input type="checkbox" id="cb-4">
-            <label for="cb-4">I completed Session 1</label>
+            <label for="cb-4">I analyzed Marco's vitals and wrote my team's assessment</label>
+          </div>
+        </div>
+
+        <!-- PHASE 5: REFLECTION & CAREER CONNECTION -->
+        <div class="sc type-wrap fade">
+          <div class="part-heading">
+            <span class="part-num part-num-wrap">Phase 5</span>
+            <h2 class="part-title">Reflection & Career Connection</h2>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">1</span>
+              <span class="step-title">What was the most surprising thing you learned today?</span>
+            </div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">2</span>
+              <span class="step-title">Which skill was hardest for you? What made it difficult?</span>
+            </div>
+          </div>
+          <div class="step-card">
+            <div class="step-header">
+              <span class="step-num">3</span>
+              <span class="step-title">If you were Marco, what would you want your medical team to do next?</span>
+            </div>
+          </div>
+          <div class="case-callout">
+            <div class="case-callout-label">Career Spotlight: Paramedic / EMT</div>
+            <p>Paramedics are the first medical professionals on the scene in emergencies. They assess patients, provide life-saving treatment, and transport people to hospitals. Every skill you practiced today — vital signs, assessment, quick decision-making — is exactly what paramedics do every shift.</p>
+            <p>EMT certification takes about 150 hours of training. Paramedic certification requires 1,200-1,800 hours. Median salary: $37,000-$50,000/year.</p>
+          </div>
+          <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/SSr0ORHVVG4" loading="lazy" allowfullscreen title="Day in the Life of a Paramedic"></iframe></div>
+          <div class="callout">Today's patient data and analysis feeds into your final case presentation in Session 6. Keep your recording sheet organized!</div>
+          <div class="part-check">
+            <input type="checkbox" id="cb-5">
+            <label for="cb-5">I completed Session 1</label>
           </div>
         </div>
 
@@ -959,8 +1074,8 @@
           </div>
           <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/ruM4Xxhx32U" loading="lazy" allowfullscreen title="How the Heart Works"></iframe></div>
           <div class="part-check">
-            <input type="checkbox" id="cb-5">
-            <label for="cb-5">I read the case briefing and watched the video</label>
+            <input type="checkbox" id="cb-6">
+            <label for="cb-6">I read the case briefing and watched the video</label>
           </div>
         </div>
 
@@ -1025,8 +1140,8 @@
             <strong>Did You Know?</strong> The human heart generates enough pressure to squirt blood 30 feet across a room. The left ventricle you are dissecting today is the powerhouse behind that force.
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-6">
-            <label for="cb-6">I completed the heart dissection and traced the blood flow circuit</label>
+            <input type="checkbox" id="cb-7">
+            <label for="cb-7">I completed the heart dissection and traced the blood flow circuit</label>
           </div>
         </div>
 
@@ -1063,8 +1178,8 @@
             <div class="step-desc">Cardiovascular technologists operate the imaging equipment that detected Marco's blockage. They perform echocardiograms, stress tests, and catheterization procedures. Watch the career video and consider: what would it be like to be the person who sees the 85% blockage on screen for the first time?</div>
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-7">
-            <label for="cb-7">I mapped the blockage and explored cardiovascular careers</label>
+            <input type="checkbox" id="cb-8">
+            <label for="cb-8">I mapped the blockage and explored cardiovascular careers</label>
           </div>
         </div>
 
@@ -1076,8 +1191,8 @@
           </div>
           <div class="callout">Keep your dissection notes and measurements - they connect directly to Marco's case in Sessions 4 and 5.</div>
           <div class="part-check">
-            <input type="checkbox" id="cb-8">
-            <label for="cb-8">I completed Session 2</label>
+            <input type="checkbox" id="cb-9">
+            <label for="cb-9">I completed Session 2</label>
           </div>
         </div>
 
@@ -1111,8 +1226,8 @@
           </div>
           <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/z8oWv-nVO6g" loading="lazy" allowfullscreen title="Simple Interrupted Suture Technique"></iframe></div>
           <div class="part-check">
-            <input type="checkbox" id="cb-9">
-            <label for="cb-9">I read the case briefing and watched the video</label>
+            <input type="checkbox" id="cb-10">
+            <label for="cb-10">I read the case briefing and watched the video</label>
           </div>
         </div>
 
@@ -1179,8 +1294,8 @@
             <strong>Did You Know?</strong> The oldest known sutures were found in an Egyptian mummy from 1100 BCE. Surgeons back then used linen thread - the technique was remarkably similar to what you are learning today.
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-10">
-            <label for="cb-10">I practiced suturing on both the banana and suture pad and tied instrument knots</label>
+            <input type="checkbox" id="cb-11">
+            <label for="cb-11">I practiced suturing on both the banana and suture pad and tied instrument knots</label>
           </div>
         </div>
 
@@ -1217,8 +1332,8 @@
             <div class="step-desc">ER physicians handle lacerations, fractures, cardiac emergencies, and everything in between. The path is long (4 years undergrad, 4 years med school, 3 - 4 years residency) but the salary reflects it ($300K-350K). Watch the career video and think about whether emergency medicine appeals to you.</div>
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-11">
-            <label for="cb-11">I assessed my suturing skills and planned Sofia's treatment</label>
+            <input type="checkbox" id="cb-12">
+            <label for="cb-12">I assessed my suturing skills and planned Sofia's treatment</label>
           </div>
         </div>
 
@@ -1230,8 +1345,8 @@
           </div>
           <div class="callout">Your suturing skills come back in Session 6 during the surgical simulation stations. Keep practicing if you can!</div>
           <div class="part-check">
-            <input type="checkbox" id="cb-12">
-            <label for="cb-12">I completed Session 3</label>
+            <input type="checkbox" id="cb-13">
+            <label for="cb-13">I completed Session 3</label>
           </div>
         </div>
 
@@ -1265,8 +1380,8 @@
           </div>
           <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/PCgxuknwets" loading="lazy" allowfullscreen title="Inside the OR"></iframe></div>
           <div class="part-check">
-            <input type="checkbox" id="cb-13">
-            <label for="cb-13">I read the case briefing and watched the video</label>
+            <input type="checkbox" id="cb-14">
+            <label for="cb-14">I read the case briefing and watched the video</label>
           </div>
         </div>
 
@@ -1332,8 +1447,8 @@
             <strong>Did You Know?</strong> A surgical scrub nurse can hand the correct instrument to a surgeon in under 2 seconds - often before the surgeon finishes asking for it. That muscle memory takes years to develop.
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-14">
-            <label for="cb-14">I identified the instruments, practiced sterile technique, and completed the team simulation</label>
+            <input type="checkbox" id="cb-15">
+            <label for="cb-15">I identified the instruments, practiced sterile technique, and completed the team simulation</label>
           </div>
         </div>
 
@@ -1370,8 +1485,8 @@
             <div class="step-desc">Operating room nurses coordinate the entire surgical team, manage supplies, and serve as the patient's advocate while they are under anesthesia. Watch the career video and consider: what personality traits make someone good at this job?</div>
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-15">
-            <label for="cb-15">I analyzed surgical safety protocols and explored OR careers</label>
+            <input type="checkbox" id="cb-16">
+            <label for="cb-16">I analyzed surgical safety protocols and explored OR careers</label>
           </div>
         </div>
 
@@ -1383,8 +1498,8 @@
           </div>
           <div class="callout">Your instrument knowledge and sterile technique skills carry directly into Session 5's laparoscopic challenge.</div>
           <div class="part-check">
-            <input type="checkbox" id="cb-16">
-            <label for="cb-16">I completed Session 4</label>
+            <input type="checkbox" id="cb-17">
+            <label for="cb-17">I completed Session 4</label>
           </div>
         </div>
 
@@ -1418,8 +1533,8 @@
           </div>
           <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/IB_NMkMF-qU" loading="lazy" allowfullscreen title="Laparoscopic Surgery Overview"></iframe></div>
           <div class="part-check">
-            <input type="checkbox" id="cb-17">
-            <label for="cb-17">I read the case briefing and watched the video</label>
+            <input type="checkbox" id="cb-18">
+            <label for="cb-18">I read the case briefing and watched the video</label>
           </div>
         </div>
 
@@ -1485,8 +1600,8 @@
             <strong>Did You Know?</strong> The da Vinci surgical robot can filter out a surgeon's natural hand tremor, allowing movements precise to under 1 millimeter. It costs about 2 million per unit.
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-18">
-            <label for="cb-18">I completed the laparoscopic training challenges and recorded my results</label>
+            <input type="checkbox" id="cb-19">
+            <label for="cb-19">I completed the laparoscopic training challenges and recorded my results</label>
           </div>
         </div>
 
@@ -1523,8 +1638,8 @@
             <div class="step-desc">Biomedical Equipment Technicians (BMETs) maintain and repair all the equipment you used today - training boxes, cameras, monitors, and even surgical robots. An associate's degree and $55K-65K salary. Watch the career video and think about whether you prefer the engineering side of medicine.</div>
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-19">
-            <label for="cb-19">I analyzed my performance data and explored biomedical careers</label>
+            <input type="checkbox" id="cb-20">
+            <label for="cb-20">I analyzed my performance data and explored biomedical careers</label>
           </div>
         </div>
 
@@ -1536,8 +1651,8 @@
           </div>
           <div class="callout">Session 6 brings together everything: vital signs, anatomy, suturing, instruments, and laparoscopy in one final simulation.</div>
           <div class="part-check">
-            <input type="checkbox" id="cb-20">
-            <label for="cb-20">I completed Session 5</label>
+            <input type="checkbox" id="cb-21">
+            <label for="cb-21">I completed Session 5</label>
           </div>
         </div>
 
@@ -1571,8 +1686,8 @@
           </div>
           <div class="yt-wrap"><iframe src="https://www.youtube.com/embed/73kJ-4gEsnA" loading="lazy" allowfullscreen title="Mass Casualty Triage - START Method"></iframe></div>
           <div class="part-check">
-            <input type="checkbox" id="cb-21">
-            <label for="cb-21">I read the case briefing and watched the video</label>
+            <input type="checkbox" id="cb-22">
+            <label for="cb-22">I read the case briefing and watched the video</label>
           </div>
         </div>
 
@@ -1646,8 +1761,8 @@
             <strong>Did You Know?</strong> During the 2010 Haiti earthquake, field medics triaged over 3,000 patients in the first 72 hours using the same START system you are learning today.
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-22">
-            <label for="cb-22">I completed the triage assessment, simulation stations, and team presentation</label>
+            <input type="checkbox" id="cb-23">
+            <label for="cb-23">I completed the triage assessment, simulation stations, and team presentation</label>
           </div>
         </div>
 
@@ -1684,8 +1799,8 @@
             <div class="step-desc">Emergency medicine physicians are the ultimate generalists - they treat everything from lacerations to cardiac arrests to mass casualty events. The path is long ($310K-350K salary after 11+ years of training) but the impact is immediate. Watch the career video and consider your own path.</div>
           </div>
           <div class="part-check">
-            <input type="checkbox" id="cb-23">
-            <label for="cb-23">I completed the triage debrief and final reflection</label>
+            <input type="checkbox" id="cb-24">
+            <label for="cb-24">I completed the triage debrief and final reflection</label>
           </div>
         </div>
 
@@ -1697,8 +1812,8 @@
           </div>
           <div class="callout">Congratulations! You have completed Mini Med School. Over 6 sessions, you mastered vital signs, heart anatomy, suturing, surgical instruments, laparoscopic technique, and emergency triage. Collect your certificate and celebrate your growth.</div>
           <div class="part-check">
-            <input type="checkbox" id="cb-24">
-            <label for="cb-24">I completed Session 6 and Mini Med School</label>
+            <input type="checkbox" id="cb-25">
+            <label for="cb-25">I completed Session 6 and Mini Med School</label>
           </div>
         </div>
 
