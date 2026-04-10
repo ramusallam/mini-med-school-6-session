@@ -982,6 +982,10 @@
               <span>Paper towels</span>
             </div>
           </div>
+          <button class="app-toggle-btn" onclick="toggleApp('ap-2-hae')">&#9654; Launch: Heart Anatomy Explorer<span class="app-arrow" id="arrow-ap-2-hae">&#9660;</span></button>
+          <div class="app-wrapper" id="ap-2-hae">
+            <iframe class="app-iframe" data-src="apps/heart-anatomy-explorer.html" title="Heart Anatomy Explorer"></iframe>
+          </div>
           <div class="step-card">
             <div class="step-header">
               <span class="step-num">1</span>
@@ -1042,7 +1046,7 @@
               <span class="step-num">1</span>
               <span class="step-title">Map the Blockage</span>
             </div>
-            <div class="step-desc">On your anatomical model or diagram, mark where the LAD artery runs along the front of the heart. Shade the area of the left ventricle that would lose blood supply if the LAD were completely blocked.</div>
+            <div class="step-desc">Use the Heart Anatomy Explorer's Blockage Simulator tab - drag the slider to 85% to see exactly what happens to Marco's heart. Then on your anatomical model or diagram, mark where the LAD artery runs along the front of the heart. Shade the area of the left ventricle that would lose blood supply if the LAD were completely blocked.</div>
           </div>
           <div class="step-card">
             <div class="step-header">
@@ -1739,7 +1743,7 @@
         wrapper.style.display = 'block';
         if (arrow) arrow.classList.add('open');
         var iframe = wrapper.querySelector('iframe');
-        if (iframe && iframe.dataset.src && !iframe.src) iframe.src = iframe.dataset.src;
+        if (iframe && iframe.dataset.src && !iframe.getAttribute('src')) iframe.src = iframe.dataset.src;
       }
     }
 
