@@ -19,7 +19,7 @@
           "instructorNotes": "",
           "blocks": [
             { "type": "text", "content": "You're about to meet a real patient. Everything you learn today starts with his story." },
-            { "type": "callout", "content": "Your Patient: Marco Torres\n\nName: Marco Torres\nAge: 45   Occupation: Construction Foreman\n\nWhy he's here: Marco has been dizzy for 3 days. He feels tightness in his chest when he climbs stairs. His left arm has been tingling.\n\nWhat else you should know: He smokes half a pack of cigarettes a day. He works long hours in a high-stress job. His father had a heart attack at age 52.\n\nYour mission: You are Marco's medical team. Run a complete assessment -vital signs, heart, lungs, neuro -and figure out what's going on.", "style": "info" },
+            { "type": "callout", "content": "Your Patient: Marco Torres\n\nName: Marco Torres\nAge: 45   Occupation: Construction Foreman\n\nWhy he's here: Marco has been dizzy for 3 days. He feels tightness in his chest when he climbs stairs. His left arm has been tingling.\n\nWhat else you should know: He smokes half a pack of cigarettes a day. He works long hours in a high-stress job. His father had a heart attack at age 52. His doctor recently flagged elevated blood sugar at his last checkup.\n\nYour mission: You are Marco's medical team. Run a complete assessment -vital signs, heart, lungs, neuro -and figure out what's going on.", "style": "info" },
             { "type": "step", "content": "What concerns you most about Marco? Why?" },
             { "type": "step", "content": "If you were the ER team, what would you check first? Why?" },
             { "type": "step", "content": "What does his family history tell you?" },
@@ -32,7 +32,7 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
-            { "type": "callout", "content": "Materials: Automatic BP cuff (or manual cuff + stethoscope), Fingertip pulse oximeter, Stethoscope, Penlight, Reflex hammer, Alcohol wipes", "style": "info" },
+            { "type": "callout", "content": "Materials: Automatic BP cuff (or manual cuff + stethoscope), Fingertip pulse oximeter, Stethoscope, Penlight, Reflex hammer, Alcohol wipes, [Optional] Glucose meter + test strips + lancets, [Optional] Venipuncture training arm + tourniquet + practice needles", "style": "info" },
             { "type": "heading", "content": "Sub-Station A: Blood Pressure Investigation", "level": "h4" },
             { "type": "callout", "content": "Marco reports dizziness and chest tightness. High blood pressure could explain both -and it's the #1 risk factor for heart attacks.", "style": "tip" },
             { "type": "video", "url": "llosVAoeojQ", "title": "How to Take Blood Pressure" },
@@ -55,7 +55,15 @@
             { "type": "step", "content": "PERRLA Eye Exam: PERRLA stands for: Pupils Equal, Round, Reactive to Light, Accommodation. Dim the lights slightly, shine the penlight into your partner's left eye, and watch BOTH pupils - they should both get smaller. Repeat with the right eye." },
             { "type": "video", "url": "Ll8r5i0eaT8", "title": "Patellar Reflex Test" },
             { "type": "step", "content": "Patellar Reflex (Knee Jerk): Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee - is the response the same on both sides?" },
-            { "type": "checklist", "items": [{ "text": "I completed all four sub-stations and recorded my data in my notebook" }] }
+            { "type": "heading", "content": "Sub-Station E: Glucose Testing (Optional)", "level": "h4" },
+            { "type": "callout", "content": "Marco's doctor flagged elevated blood sugar. A glucose meter measures blood sugar levels with a simple finger prick. This station is optional - your teacher will let you know if your program includes it.", "style": "tip" },
+            { "type": "step", "content": "Blood Glucose Test: If your program includes this station, wash your hands and dry them completely. Your teacher will supervise the finger-prick process using the glucose meter. Place a small drop of blood on the test strip. Wait for the reading (about 5 seconds). Record the number in your notebook. Normal fasting glucose is 70-99 mg/dL. If your program does not include finger-prick testing, your teacher will demonstrate the process and you can enter sample values in the app." },
+            { "type": "callout", "content": "Glucose Ranges: Normal (Fasting) = 70-99 mg/dL | Prediabetic = 100-125 mg/dL | Diabetic = 126+ mg/dL | Low (Hypoglycemia) = below 70 mg/dL", "style": "tip" },
+            { "type": "heading", "content": "Sub-Station F: Venipuncture Demo (Optional)", "level": "h4" },
+            { "type": "callout", "content": "When a doctor orders blood work based on vital signs findings, a phlebotomist or nurse draws blood from a vein. This station uses a training arm to practice the process.", "style": "tip" },
+            { "type": "step", "content": "Venipuncture Practice: Using the training arm, locate the vein by feeling for a soft, bouncy tube in the inner elbow area. Apply the tourniquet above the site. Clean the area with an alcohol wipe. Practice inserting the needle at a 15-30 degree angle with the bevel facing up. Your teacher will guide you through each step. This is a simulation - the training arm has artificial veins filled with simulated blood." },
+            { "type": "callout", "content": "In a real hospital, blood draws are one of the most common procedures. A skilled phlebotomist can complete a draw in under 2 minutes. The blood samples get sent to the lab for testing - including glucose, cholesterol, and hundreds of other markers.", "style": "tip" },
+            { "type": "checklist", "items": [{ "text": "I completed all stations and recorded my data in my notebook" }] }
           ]
         },
         {
@@ -81,7 +89,7 @@
           "instructorNotes": "",
           "blocks": [
             { "type": "text", "content": "You've learned what normal looks like. Now compare that to Marco's actual numbers and see if your instincts were right." },
-            { "type": "callout", "content": "Marco's Actual ER Vitals\n\nThese are the real numbers from Marco's ER visit:\n\nBlood Pressure: 158/94 (Normal: less than 120/80)\nHeart Rate: 92 BPM (Normal: 60-100 BPM)\nSpO2: 96% (Normal: 95-100%)\nPupils: Equal and reactive\nReflexes: Normal (both sides)", "style": "info" },
+            { "type": "callout", "content": "Marco's Actual ER Vitals\n\nThese are the real numbers from Marco's ER visit:\n\nBlood Pressure: 158/94 (Normal: less than 120/80)\nHeart Rate: 92 BPM (Normal: 60-100 BPM)\nSpO2: 96% (Normal: 95-100%)\nFasting Glucose: 118 mg/dL (Normal: 70-99, Prediabetic: 100-125)\nPupils: Equal and reactive\nReflexes: Normal (both sides)", "style": "info" },
             { "type": "step", "content": "Compare Marco's BP to the classification chart. What stage is he in?" },
             { "type": "step", "content": "Which of Marco's vitals worry you? Why?" },
             { "type": "step", "content": "Your Team's Preliminary Assessment: Based on everything you know - Marco's symptoms, his family history, his smoking, and these vital signs - what do you think is going on with Marco? What should happen next?" },
@@ -385,15 +393,16 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
-            { "type": "callout", "content": "Materials: Laparoscopic training box with camera, Portable monitor (USB-C/HDMI), Laparoscopic graspers and scissors, Training modules (shapes, pegs, gauze), Timer, LED clip light (optional)", "style": "info" },
+            { "type": "callout", "content": "Your Setup: This lab uses one of two trainer setups depending on your program's equipment.\n\nOption A - Cardboard Box Trainer: A cardboard box with holes cut for grasper ports and an endoscope camera (like an ILIHOME borescope) mounted on top. Affordable, portable, and surprisingly effective. Training modules (peg boards, candy/gummy bears for transfer, string for knot practice) are placed inside the box.\n\nOption B - Torso Simulator: A professional laparoscopic training torso with built-in trocar ports, camera system, and anatomically positioned access points. Same challenges, more realistic feel.\n\nBoth setups teach the same fundamental skill: operating instruments you cannot see directly, guided only by a camera on a screen.", "style": "info" },
+            { "type": "callout", "content": "Materials (Option A - Cardboard): Cardboard box with port holes, Endoscope/borescope camera with screen, Laparoscopic graspers and scissors, Training modules (peg board, small objects for transfer, gauze, string), Timer\n\nMaterials (Option B - Torso): Laparoscopic training torso with ports, Camera and monitor, Laparoscopic graspers and scissors, Training modules, Timer", "style": "info" },
             { "type": "step", "content": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box. The fulcrum effect is disorienting, so start with 2 rounds of precision targeting to calibrate your fine motor skills. Notice how even on a flat screen, small movements require concentration." },
             { "type": "app", "url": "apps/surgical-dexterity-trainer.html", "title": "Surgical Dexterity Trainer", "embed": true },
             { "type": "video", "url": "C1CA5ujrlr0", "title": "Laparoscopic Peg Transfer Tutorial" },
-            { "type": "step", "content": "Challenge 1 - Object Transfer: Pick up 6 colored shapes from the left row using one grasper. Transfer each shape hand-to-hand in mid-air (pass from one instrument to the other without dropping). Place on the right row. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing." },
-            { "type": "step", "content": "Challenge 2 - Shape Removal and Replacement: Phase 1: Remove all shapes from the board in 3 minutes. Memorize their original positions. Phase 2: Replace all shapes in their original positions in 3 minutes. This tests spatial memory and precision placement using only camera guidance." },
-            { "type": "step", "content": "Challenge 3 - Precision Cutting: Using the laparoscopic scissors, cut a circle from gauze as close to the drawn line as possible. Time limit: 5 minutes. You will be scored on how closely your cut follows the line. Remember: every movement is reversed." },
+            { "type": "step", "content": "Challenge 1 - Object Transfer: Using one grasper, pick up 6 objects (peg board pieces, candy, or small shapes depending on your setup) from one side. Transfer each object hand-to-hand in mid-air - pass from one instrument to the other without dropping. Place on the opposite side. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing." },
+            { "type": "step", "content": "Challenge 2 - Object Removal and Replacement: Phase 1: Remove all objects from their positions in 3 minutes. Memorize where each one was. Phase 2: Replace all objects in their original positions in 3 minutes. This tests spatial memory and precision placement using only camera guidance." },
+            { "type": "step", "content": "Challenge 3 - Precision Task: Option A (Cardboard): Using the graspers, tie a simple knot in a piece of string inside the box using only the camera view. Option B (Torso): Using the laparoscopic scissors, cut a circle from gauze as close to the drawn line as possible. Time limit: 5 minutes. Remember: every movement is reversed." },
             { "type": "step", "content": "Record and Reflect: In your notebook, record your time for each challenge and any errors or fumbles. Rate your frustration level honestly on a scale of 1-10. Consider this: Marco's surgeon completes the entire cholecystectomy in 30-45 minutes. That level of skill represents thousands of practice hours. The da Vinci surgical robot was invented partly to solve the fulcrum problem - it translates 1:1 movements, provides 3D vision, and filters out hand tremor." },
-            { "type": "callout", "content": "Did You Know? The da Vinci surgical robot can filter out a surgeon's natural hand tremor, allowing movements precise to under 1 millimeter. It costs about 2 million per unit.", "style": "tip" },
+            { "type": "callout", "content": "Did You Know? The da Vinci surgical robot can filter out a surgeon's natural hand tremor, allowing movements precise to under 1 millimeter.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed the laparoscopic training challenges and recorded my results in my notebook" }] }
           ]
         },
