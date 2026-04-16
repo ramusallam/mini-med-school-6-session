@@ -51,9 +51,10 @@
             { "type": "step", "content": "Listen to the Lungs: Move to the front of the chest (both sides), then the back (both sides). In your notebook, write down what you hear at each location. You should hear quiet, even breathing. Switch with your partner and repeat." },
             { "type": "heading", "content": "Sub-Station D: Neurological Assessment", "level": "h4" },
             { "type": "callout", "content": "Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that.", "style": "tip" },
-            { "type": "video", "url": "LK4qB3nl0VE", "title": "Pupillary Reflex and Neurological Assessment" },
             { "type": "step", "content": "PERRLA Eye Exam: PERRLA stands for: Pupils Equal, Round, Reactive to Light, Accommodation. Dim the lights slightly, shine the penlight into your partner's left eye, and watch BOTH pupils  - they should both get smaller. Repeat with the right eye." },
+            { "type": "video", "url": "LK4qB3nl0VE", "title": "PERRLA Nursing Assessment of the Eyes" },
             { "type": "step", "content": "Patellar Reflex (Knee Jerk): Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee  - is the response the same on both sides?" },
+            { "type": "video", "url": "Ll8r5i0eaT8", "title": "Patellar Reflex Test" },
             { "type": "checklist", "items": [{ "text": "I completed all four sub-stations and recorded my data in my notebook" }] }
           ]
         },
