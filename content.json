@@ -41,14 +41,17 @@
             { "type": "callout", "content": "BP Classification: Normal = less than 120/80 | Elevated = 120-129 | Stage 1 Hypertension = 130-139/80-89 | Stage 2 Hypertension = 140+/90+ | Crisis = 180+/120+ (call 911)", "style": "tip" },
             { "type": "heading", "content": "Sub-Station B: Pulse Oximetry", "level": "h4" },
             { "type": "callout", "content": "Low oxygen levels can cause dizziness. We need to check if Marco's blood is carrying enough oxygen to his brain.", "style": "tip" },
+            { "type": "video", "url": "YyzaGO9k5LE", "title": "How to Use a Pulse Oximeter" },
             { "type": "step", "content": "Check Oxygen and Pulse: Clip the sensor onto your index finger. Wait for a stable number (about 10 seconds). In your notebook, record SpO2 (oxygen %) and Pulse (heart rate). Try a different finger  - does the reading change? Switch with your partner and repeat." },
             { "type": "callout", "content": "Normal Ranges: SpO2 = 95-100% (below 95% means not enough oxygen) | Pulse = 60-100 BPM at rest (above 100 means the heart is working too hard)", "style": "tip" },
             { "type": "heading", "content": "Sub-Station C: Stethoscope Technique", "level": "h4" },
             { "type": "callout", "content": "Marco's chest tightness could be his heart or his lungs. The stethoscope lets you listen to both and start narrowing down the cause.", "style": "tip" },
+            { "type": "video", "url": "K0IABfyBbCU", "title": "How to Use a Stethoscope" },
             { "type": "step", "content": "Listen to the Heart: Clean the earpieces with an alcohol wipe. Put the earpieces in with the tips angled forward (toward your nose). Place the flat part (diaphragm) on your partner's upper left chest. Listen for the heartbeat: LUB-DUB." },
             { "type": "step", "content": "Listen to the Lungs: Move to the front of the chest (both sides), then the back (both sides). In your notebook, write down what you hear at each location. You should hear quiet, even breathing. Switch with your partner and repeat." },
             { "type": "heading", "content": "Sub-Station D: Neurological Assessment", "level": "h4" },
             { "type": "callout", "content": "Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that.", "style": "tip" },
+            { "type": "video", "url": "NQxLsVM42HE", "title": "Pupillary Reflex and Neurological Assessment" },
             { "type": "step", "content": "PERRLA Eye Exam: PERRLA stands for: Pupils Equal, Round, Reactive to Light, Accommodation. Dim the lights slightly, shine the penlight into your partner's left eye, and watch BOTH pupils  - they should both get smaller. Repeat with the right eye." },
             { "type": "step", "content": "Patellar Reflex (Knee Jerk): Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee  - is the response the same on both sides?" },
             { "type": "checklist", "items": [{ "text": "I completed all four sub-stations and recorded my data in my notebook" }] }
@@ -93,7 +96,7 @@
             { "type": "step", "content": "What was the most surprising thing you learned today?" },
             { "type": "step", "content": "Which skill was hardest for you? What made it difficult?" },
             { "type": "step", "content": "If you were Marco, what would you want your medical team to do next?" },
-            { "type": "callout", "content": "Career Spotlight: Paramedic / EMT\n\nParamedics are the first medical professionals on the scene in emergencies. They assess patients, provide life-saving treatment, and transport people to hospitals. Every skill you practiced today  - vital signs, assessment, quick decision-making  - is exactly what paramedics do every shift.\n\nEMT certification takes about 150 hours of training. Paramedic certification requires 1,200-1,800 hours. Median salary: $37,000-$50,000/year.", "style": "info" },
+            { "type": "callout", "content": "Career Spotlight: Paramedic / EMT\n\nParamedics are the first medical professionals on the scene in emergencies. They assess patients, provide life-saving treatment, and transport people to hospitals. Every skill you practiced today  - vital signs, assessment, quick decision-making  - is exactly what paramedics do every shift.\n\nEMT certification takes about 150 hours of training. Paramedic certification requires 1,200-1,800 hours.", "style": "info" },
             { "type": "video", "url": "SSr0ORHVVG4", "title": "Day in the Life of a Paramedic" },
             { "type": "callout", "content": "Today's patient data and analysis feeds into your final case presentation in Session 6. Keep your notebook organized  - you'll refer back to today's data throughout the program.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed Session 1" }] }
@@ -175,7 +178,7 @@
             { "type": "step", "content": "What surprised you most about the inside of the heart?" },
             { "type": "step", "content": "How did holding a real heart change your understanding of cardiovascular disease?" },
             { "type": "step", "content": "What would it be like to be the person who sees the 85% blockage on screen for the first time?" },
-            { "type": "callout", "content": "Career Spotlight: Cardiovascular Technologist\n\nCardiovascular technologists operate the imaging equipment that detected Marco's blockage. They perform echocardiograms, stress tests, and catheterization procedures. An associate's or bachelor's degree is required, with median salary of $60,000-$75,000/year.", "style": "info" },
+            { "type": "callout", "content": "Career Spotlight: Cardiovascular Technologist\n\nCardiovascular technologists operate the imaging equipment that detected Marco's blockage. They perform echocardiograms, stress tests, and catheterization procedures. An associate's or bachelor's degree is required.", "style": "info" },
             { "type": "video", "url": "qpcp3j9I_LY", "title": "CV Technologist Career Spotlight" },
             { "type": "callout", "content": "Keep your dissection notes and measurements - they connect directly to Marco's case in Sessions 4 and 5.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed Session 2" }] }
@@ -256,7 +259,7 @@
             { "type": "step", "content": "What was the hardest part of learning to suture? What made it difficult?" },
             { "type": "step", "content": "How did it feel to work with real surgical instruments for the first time?" },
             { "type": "step", "content": "Would you want to be the person responsible for closing wounds in an emergency?" },
-            { "type": "callout", "content": "Career Spotlight: Emergency Medicine Physician\n\nER physicians handle lacerations, fractures, cardiac emergencies, and everything in between. The path is long (4 years undergrad, 4 years med school, 3-4 years residency) but the salary reflects it ($300K-350K). Every skill you practiced today is part of their daily work.", "style": "info" },
+            { "type": "callout", "content": "Career Spotlight: Emergency Medicine Physician\n\nER physicians handle lacerations, fractures, cardiac emergencies, and everything in between. The path is long (4 years undergrad, 4 years med school, 3-4 years residency) but the commitment reflects it. Every skill you practiced today is part of their daily work.", "style": "info" },
             { "type": "video", "url": "4QAXNIJvjyU", "title": "ER Doctor Career Spotlight" },
             { "type": "callout", "content": "Your suturing skills come back in Session 6 during the surgical simulation stations. Keep practicing if you can!", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed Session 3" }] }
@@ -337,7 +340,7 @@
             { "type": "step", "content": "What surprised you most about how an OR actually works?" },
             { "type": "step", "content": "Which OR team role appealed to you most? Why?" },
             { "type": "step", "content": "What personality traits make someone good at working in the operating room?" },
-            { "type": "callout", "content": "Career Spotlight: Operating Room Nurse\n\nOperating room nurses coordinate the entire surgical team, manage supplies, and serve as the patient's advocate while they are under anesthesia. They are the backbone of every surgery. BSN required, with median salary of $80,000-$100,000/year.", "style": "info" },
+            { "type": "callout", "content": "Career Spotlight: Operating Room Nurse\n\nOperating room nurses coordinate the entire surgical team, manage supplies, and serve as the patient's advocate while they are under anesthesia. They are the backbone of every surgery. BSN required.", "style": "info" },
             { "type": "video", "url": "ILuQqEt_wUw", "title": "OR Nurse Career Spotlight" },
             { "type": "callout", "content": "Your instrument knowledge and sterile technique skills carry directly into Session 5's laparoscopic challenge.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed Session 4" }] }
@@ -418,7 +421,7 @@
             { "type": "step", "content": "What was your frustration level during the laparoscopic challenges? What does that tell you about surgical training?" },
             { "type": "step", "content": "Did your performance improve across the challenges? What does that reveal about how the brain adapts?" },
             { "type": "step", "content": "Do you prefer the engineering side of medicine or the hands-on patient care side?" },
-            { "type": "callout", "content": "Career Spotlight: Biomedical Equipment Technician (BMET)\n\nBMETs maintain and repair all the equipment you used today - training boxes, cameras, monitors, and even surgical robots. An associate's degree is required, with median salary of $55K-65K/year. Without BMETs, no surgery happens.", "style": "info" },
+            { "type": "callout", "content": "Career Spotlight: Biomedical Equipment Technician (BMET)\n\nBMETs maintain and repair all the equipment you used today - training boxes, cameras, monitors, and even surgical robots. An associate's degree is required. Without BMETs, no surgery happens.", "style": "info" },
             { "type": "video", "url": "p-cOdoy43WA", "title": "BMET Career Spotlight" },
             { "type": "callout", "content": "Session 6 brings together everything: vital signs, anatomy, suturing, instruments, and laparoscopy in one final simulation.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed Session 5" }] }
