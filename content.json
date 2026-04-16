@@ -100,6 +100,8 @@
             { "type": "callout", "content": "Career Spotlight: Paramedic / EMT\n\nParamedics are the first medical professionals on the scene in emergencies. They assess patients, provide life-saving treatment, and transport people to hospitals. Every skill you practiced today  - vital signs, assessment, quick decision-making  - is exactly what paramedics do every shift.\n\nEMT certification takes about 150 hours of training. Paramedic certification requires 1,200-1,800 hours.", "style": "info" },
             { "type": "video", "url": "SSr0ORHVVG4", "title": "Day in the Life of a Paramedic" },
             { "type": "callout", "content": "Today's patient data and analysis feeds into your final case presentation in Session 6. Keep your notebook organized  - you'll refer back to today's data throughout the program.", "style": "tip" },
+            { "type": "step", "content": "Go Deeper with the Vital Signs Interpreter: Open the app one more time. Try Explore Mode  - load Marco Torres and see how his real ER vitals (BP 158/94, HR 92, SpO2 96%) classify. Toggle his pupils to abnormal and watch what changes. Load the Stroke Alert and Sepsis Patient to see what critical vitals look like. When you're ready, take the Quiz  - 8 clinical scenarios to test whether you can think like a doctor." },
+            { "type": "app", "url": "apps/vital-signs-interpreter.html", "title": "Vital Signs Interpreter", "embed": true },
             { "type": "checklist", "items": [{ "text": "I completed Session 1" }] }
           ]
         }
