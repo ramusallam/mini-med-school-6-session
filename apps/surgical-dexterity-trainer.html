@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Surgical Dexterity Trainer - Woven Learning Mini Med School</title>
-  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
-  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.23.9/babel.min.js"></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #F0F4F8; min-height: 100vh; }
@@ -82,18 +82,20 @@
     function AppHeader() {
       return (
         <div style={{
-          background: "linear-gradient(135deg, #2A9D8F 0%, #1A6B6B 100%)",
-          padding: "10px 20px",
+          background: "linear-gradient(135deg, #1B3A5C 0%, #2A9D8F 100%)",
+          padding: "12px 20px",
           display: "flex",
           alignItems: "center",
           gap: 10,
           boxShadow: "0 2px 8px rgba(0,0,0,0.12)",
+          borderBottom: "3px solid #D4A843",
         }}>
-          <WovenLogo size={22} />
-          <div style={{ display: "flex", alignItems: "baseline", gap: 8 }}>
-            <span style={{ fontSize: 14, fontWeight: 700, color: WHITE, letterSpacing: 0.3 }}>Mini Med School</span>
-            <span style={{ fontSize: 11, color: "rgba(255,255,255,0.7)", fontWeight: 500 }}>Surgical Dexterity Trainer</span>
+          <WovenLogo size={24} />
+          <div style={{ flex: 1 }}>
+            <div style={{ fontSize: 15, fontWeight: 800, color: WHITE, letterSpacing: 0.3 }}>Mini Med School</div>
+            <div style={{ fontSize: 11, color: "rgba(255,255,255,0.75)", fontWeight: 500 }}>Surgical Dexterity Trainer</div>
           </div>
+          <span style={{ fontSize: 20 }}>{"\u{1FA7A}"}</span>
         </div>
       );
     }
@@ -102,7 +104,7 @@
     function AppFooter() {
       return (
         <div style={{
-          textAlign: "center", padding: "12px 16px", borderTop: "2px solid #E8ECF0",
+          textAlign: "center", padding: "12px 16px", borderTop: "3px solid #D4A843",
           background: WHITE, fontSize: 11, color: "#999",
           display: "flex", alignItems: "center", justifyContent: "center", gap: 6,
         }}>
@@ -1005,7 +1007,7 @@
             <div style={{ fontSize: 40, marginBottom: 8 }}>&#x1F3E5;</div>
             <h2 style={{ fontSize: 22, fontWeight: 800, color: NAVY, marginBottom: 6 }}>Welcome, Future Surgeon!</h2>
             <p style={{ fontSize: 13, color: MED, lineHeight: 1.6, maxWidth: 480, margin: "0 auto 16px" }}>
-              Surgeons need extraordinary hand-eye coordination, precision, and memory. Test yours with three challenges inspired by real surgical skills training.
+              Surgeons need extraordinary hand-eye coordination, precision, and memory. Test yours with three challenges inspired by real surgical skills training. The precision you build here is exactly what Marco Torres's surgical team needs in Sessions 3 and 5.
             </p>
           </div>
 

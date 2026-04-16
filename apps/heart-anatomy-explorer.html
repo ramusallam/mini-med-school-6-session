@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Virtual Cardiology Lab</title>
+<title>Heart Anatomy Explorer - Woven Learning Mini Med School</title>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
@@ -16,7 +16,7 @@ html,body{height:100%;overflow:hidden}
 body{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;background:var(--bg);color:var(--text);display:flex;flex-direction:column}
 
 /* Header */
-.lab-header{background:linear-gradient(135deg,var(--navy) 0%,#0F2440 100%);color:#fff;padding:10px 20px;display:flex;align-items:center;gap:14px;flex-shrink:0}
+.lab-header{background:linear-gradient(135deg,var(--navy) 0%,var(--teal) 100%);color:#fff;padding:10px 20px;display:flex;align-items:center;gap:14px;flex-shrink:0;border-bottom:3px solid var(--gold)}
 .lab-header h1{font-size:1.15rem;font-weight:700;letter-spacing:.5px}
 .lab-header .subtitle{font-size:.72rem;color:rgba(255,255,255,.55);margin-top:1px}
 .ecg-mini{width:80px;height:24px;opacity:.5}
@@ -155,11 +155,12 @@ body{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;background:var(--bg
 <body>
 
 <div class="lab-header">
-  <svg class="ecg-mini" viewBox="0 0 80 24"><polyline points="0,12 15,12 20,12 24,2 28,22 32,12 38,12 42,8 46,16 50,12 80,12" fill="none" stroke="rgba(42,157,143,.8)" stroke-width="1.5"/></svg>
-  <div>
-    <h1>Virtual Cardiology Lab</h1>
-    <div class="subtitle">Mini Med School &mdash; Heart Anatomy Explorer</div>
+  <svg viewBox="0 0 40 40" width="24" height="24" style="flex-shrink:0"><polygon points="13,2 24,13 13,24 2,13" fill="#0ABAB5" opacity="0.85"/><polygon points="27,2 38,13 27,24 16,13" fill="#F5B731" opacity="0.85"/><polygon points="13,16 24,27 13,38 2,27" fill="#E65C3C" opacity="0.85"/><polygon points="27,16 38,27 27,38 16,27" fill="#7A2D4E" opacity="0.85"/></svg>
+  <div style="flex:1">
+    <h1>Mini Med School</h1>
+    <div class="subtitle">Session 2: Heart Anatomy Explorer</div>
   </div>
+  <span style="font-size:20px">&#x2764;&#xFE0F;</span>
 </div>
 
 <div class="tab-bar">
@@ -320,7 +321,7 @@ body{font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;background:var(--bg
       <div class="stat-row"><span class="stat-label">Urgency</span><span class="stat-value" id="statUrgency"><span class="urgency-badge urgency-green">Stable</span></span></div>
     </div>
     <canvas class="ecg-marco" id="ecgMarco"></canvas>
-    <div class="marco-callout" id="marcoCallout"><strong>Marco's Case:</strong> At 85% stenosis, Marco experienced crushing chest pain during basketball practice. His LAD &mdash; the "widow-maker" artery &mdash; was nearly completely blocked. Emergency catheterization and stent placement saved the downstream heart muscle just in time.</div>
+    <div class="marco-callout" id="marcoCallout"><strong>Marco's Case:</strong> At 85% stenosis, Marco experienced crushing chest pain during basketball practice. His LAD - the "widow-maker" artery - was nearly completely blocked. Emergency catheterization and stent placement saved the downstream heart muscle just in time.</div>
     <div class="stemi-alert" id="stemiAlert"><h3>STEMI ALERT</h3><p style="font-size:.82rem;margin-bottom:8px">Complete occlusion of the LAD. ST-elevation myocardial infarction in progress.</p><p style="font-size:.75rem;color:var(--text-light)">Emergency interventions: Percutaneous Coronary Intervention (PCI), Thrombolysis, CABG Surgery</p></div>
   </div>
 </div>
@@ -1214,3 +1215,4 @@ window.addEventListener('resize', () => {
 </script>
 </body>
 </html>
+
