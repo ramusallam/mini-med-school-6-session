@@ -71,8 +71,6 @@
             { "type": "step", "content": "Which readings were outside the normal range?" },
             { "type": "step", "content": "What could cause those abnormal readings?" },
             { "type": "step", "content": "Based on everything you've measured, what do you think might be going on with Marco?" },
-            { "type": "step", "content": "Go Deeper: Open the app again and try Explore Mode - load Marco Torres and see how his real ER vitals (BP 158/94, HR 92, SpO2 96%) classify. Toggle his pupils to abnormal and watch what changes. Load the Stroke Alert and Sepsis Patient to see what critical vitals look like. When you're ready, take the Quiz - 8 clinical scenarios to test whether you can think like a doctor." },
-            { "type": "app", "url": "apps/vital-signs-interpreter.html", "title": "Vital Signs Interpreter", "embed": true },
             { "type": "checklist", "items": [{ "text": "I compiled my findings and tested my interpretation with the Vital Signs Interpreter" }] }
           ]
         },
@@ -86,7 +84,9 @@
             { "type": "callout", "content": "Marco's Actual ER Vitals\n\nThese are the real numbers from Marco's ER visit:\n\nBlood Pressure: 158/94 (Normal: less than 120/80)\nHeart Rate: 92 BPM (Normal: 60-100 BPM)\nSpO2: 96% (Normal: 95-100%)\nPupils: Equal and reactive\nReflexes: Normal (both sides)", "style": "info" },
             { "type": "step", "content": "Compare Marco's BP to the classification chart. What stage is he in?" },
             { "type": "step", "content": "Which of Marco's vitals worry you? Why?" },
-            { "type": "step", "content": "Your Team's Preliminary Assessment: Based on everything you know -Marco's symptoms, his family history, his smoking, and these vital signs -what do you think is going on with Marco? What should happen next?" },
+            { "type": "step", "content": "Your Team's Preliminary Assessment: Based on everything you know - Marco's symptoms, his family history, his smoking, and these vital signs - what do you think is going on with Marco? What should happen next?" },
+            { "type": "step", "content": "Go Deeper: Now that you know Marco's real numbers, open the app and try Explore Mode. Load Marco Torres and see how his ER vitals classify. Toggle his pupils to abnormal and watch what changes. Load the Stroke Alert and Sepsis Patient to see what critical vitals look like. When you're ready, take the Quiz - 8 clinical scenarios to test whether you can think like a doctor." },
+            { "type": "app", "url": "apps/vital-signs-interpreter.html", "title": "Vital Signs Interpreter", "embed": true },
             { "type": "checklist", "items": [{ "text": "I analyzed Marco's vitals and wrote my team's assessment" }] }
           ]
         },
@@ -144,6 +144,7 @@
             { "type": "step", "content": "Trace the Blood Flow: Using a probe, trace the complete circuit: vena cava enters the right atrium, passes through the tricuspid valve into the right ventricle, exits through the pulmonary artery to the lungs, returns via pulmonary veins to the left atrium, passes through the mitral valve into the left ventricle, and exits through the aorta to the entire body." },
             { "type": "step", "content": "Measure Wall Thickness: Using your ruler, measure the actual wall thickness of the right ventricle and the left ventricle. Record both measurements in your notebook. The left ventricle should be 2 - 3 times thicker. This is why an LAD blockage (which feeds the left ventricle) is so dangerous - the thickest, hardest-working muscle loses its blood supply." },
             { "type": "callout", "content": "Did You Know? The human heart generates enough pressure to squirt blood 30 feet across a room. The left ventricle you are dissecting today is the powerhouse behind that force.", "style": "tip" },
+            { "type": "callout", "content": "Clean-Up Protocol: When you are finished, follow your teacher's disposal instructions carefully. Place the heart specimen back in the provided container. Dispose of gloves and paper towels in the designated biological waste bag. Wipe down your dissection tray and tools with disinfectant. Wash your hands thoroughly with soap and water.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed the heart dissection and traced the blood flow circuit" }] }
           ]
         },
@@ -155,6 +156,7 @@
           "blocks": [
             { "type": "text", "content": "You've dissected the heart and measured the walls. Now use the interactive tools to map what you found and analyze Marco's blockage." },
             { "type": "step", "content": "Map the Blockage: Use the Heart Anatomy Explorer's Blockage Simulator tab - drag the slider to 85% to see exactly what happens to Marco's heart. Then on your anatomical model or diagram, mark where the LAD artery runs along the front of the heart. Shade the area of the left ventricle that would lose blood supply if the LAD were completely blocked." },
+            { "type": "app", "url": "apps/heart-anatomy-explorer.html", "title": "Heart Anatomy Explorer", "embed": true },
             { "type": "step", "content": "Compare Chambers: Based on your dissection measurements, explain in 2 - 3 sentences why the left ventricle wall is thicker than the right. What does this tell you about the work each chamber does?" },
             { "type": "checklist", "items": [{ "text": "I mapped the blockage and compared chamber measurements" }] }
           ]
@@ -225,6 +227,7 @@
             { "type": "step", "content": "Suture Pad Practice: Move to the silicone pad - the pre-cut slits feel more like real tissue resistance. Place 3 simple interrupted sutures. Your goal: edges meet without overlapping, spacing is even, knots lie flat." },
             { "type": "step", "content": "Instrument Tie: The hardest part is the instrument knot. First throw counterclockwise - wrap, grab, pull. Second throw clockwise - same motion, opposite direction. This creates a square knot. It will not slip." },
             { "type": "callout", "content": "Did You Know? The oldest known sutures were found in an Egyptian mummy from 1100 BCE. Surgeons back then used linen thread - the technique was remarkably similar to what you are learning today.", "style": "tip" },
+            { "type": "callout", "content": "Sharps Disposal: All needles go directly into the sharps container - never set a needle down on the table loose. Count your needles at the end: every needle that went out must come back. Dispose of used suture material in the sharps container as well. This is a real OR protocol and it is non-negotiable.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I practiced suturing on both the banana and suture pad and tied instrument knots" }] }
           ]
         },
@@ -471,6 +474,7 @@
             { "type": "step", "content": "Station C - Blindfolded Communication: One teammate is blindfolded and holds the laparoscopic graspers. The other two give ONLY verbal directions (no touching, no pointing). Move 3 objects to target zones in 6 minutes. This tests closed-loop communication, trust, and teamwork under constraints." },
             { "type": "step", "content": "Grand Rounds Presentation: Each team presents for 3-4 minutes: state your top 3 most critical patients in rank order. For each patient, cite 2-3 key vital signs or findings and explain your reasoning using clinical knowledge from all 6 sessions." },
             { "type": "callout", "content": "Did You Know? During the 2010 Haiti earthquake, field medics triaged over 3,000 patients in the first 72 hours using the same START system you are learning today.", "style": "tip" },
+            { "type": "callout", "content": "Station Clean-Up: Return all sharps to the sharps container and count your needles. Wipe down all instruments and the laparoscopic training box. Dispose of used gauze and suture material properly. Follow your teacher's instructions for station reset.", "style": "tip" },
             { "type": "checklist", "items": [{ "text": "I completed the triage assessment, simulation stations, and team presentation" }] }
           ]
         },
