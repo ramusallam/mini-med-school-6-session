@@ -1111,17 +1111,18 @@
           "blocks": [
             {
               "type": "callout",
-              "content": "Your Setup: This lab uses one of two trainer setups depending on your program's equipment.\n\nOption A - Cardboard Box Trainer: A cardboard box with holes cut for grasper ports and an endoscope camera (like an ILIHOME borescope) mounted on top. Affordable, portable, and surprisingly effective. Training modules (peg boards, candy/gummy bears for transfer, string for knot practice) are placed inside the box.\n\nOption B - Torso Simulator: A professional laparoscopic training torso with built-in trocar ports, camera system, and anatomically positioned access points. Same challenges, more realistic feel.\n\nBoth setups teach the same fundamental skill: operating instruments you cannot see directly, guided only by a camera on a screen.",
+              "content": "Your Setup: This lab uses one of two trainer setups depending on your program's budget. Many programs run a mix of both across sites.\n\nOption A - Cardboard Box Trainer: A cardboard box with a few holes cut for grasper ports. Affordable, portable, and surprisingly effective. Training modules (candy to unwrap, gummy bears for transfer, peg boards, string for knot practice, small 3D models) are placed inside the box.\n\nOption B - Torso Simulator: A professional laparoscopic training torso with built-in trocar ports and anatomically positioned access points. The torso kit ships with a USB camera but NO screen, so we supplement it with the same borescope camera as Option A.\n\nCamera + screen (both options): a handheld borescope camera (example: ILIHOME 1080p with 4.3\" screen, 8 adjustable LEDs, 16.4 ft semi-rigid cable, around $30-40 on Amazon). One borescope covers both setups.\n\nSame fundamental challenge either way: operating long instruments you cannot see directly, guided only by what the camera puts on the screen.",
               "style": "info"
             },
             {
               "type": "callout",
-              "content": "Materials (Option A - Cardboard): Cardboard box with port holes, Endoscope/borescope camera with screen, Laparoscopic graspers and scissors, Training modules (peg board, small objects for transfer, gauze, string), Timer\n\nMaterials (Option B - Torso): Laparoscopic training torso with ports, Camera and monitor, Laparoscopic graspers and scissors, Training modules, Timer",
+              "content": "Shared materials (both options): Borescope camera with its own screen (ILIHOME-style 1080p, 8 LEDs, semi-rigid cable), laparoscopic graspers and scissors, training modules (wrapped candy, gummy bears, peg board with pegs, string for knot practice, small 3D-printed shapes), timer, notebook.\n\nOption A adds: Cardboard box with grasper port holes cut in the top and one hole for the borescope cable.\n\nOption B adds: Laparoscopic training torso with built-in trocar ports (example: Amazon \"Laparoscopic Surgery Simulator Training Modules, Portable Surgical Skill Trainer Box with Endoscope\"). Note: you buy the torso separately from the borescope camera. The USB camera that ships inside the torso kit has no screen; we don't use it.",
               "style": "info"
             },
             {
               "type": "step",
-              "content": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box. The fulcrum effect is disorienting, so start with 2 rounds of precision targeting to calibrate your fine motor skills. Notice how even on a flat screen, small movements require concentration."
+              "content": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box. The fulcrum effect is disorienting, so start with 2 rounds of precision targeting to calibrate your fine motor skills. Notice how even on a flat screen, small movements require concentration.",
+              "text": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box or torso. The fulcrum effect is disorienting - left becomes right, down becomes up. Build your brain's map first, then switch to real graspers."
             },
             {
               "type": "app",
@@ -1131,7 +1132,8 @@
             },
             {
               "type": "step",
-              "content": "Challenge 1 - Object Transfer: Using one grasper, pick up 6 objects (peg board pieces, candy, or small shapes depending on your setup) from one side. Transfer each object hand-to-hand in mid-air - pass from one instrument to the other without dropping. Place on the opposite side. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing."
+              "content": "Challenge 1 - Object Transfer: Using one grasper, pick up 6 objects (peg board pieces, candy, or small shapes depending on your setup) from one side. Transfer each object hand-to-hand in mid-air - pass from one instrument to the other without dropping. Place on the opposite side. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing.",
+              "text": "Challenge 1 - Object Transfer: Using one grasper, move 6 small items from one side of the setup to the other. Use whatever your kit has: gummy bears, pegs, wrapped candy (extra credit: unwrap one candy mid-challenge), or 3D-printed shapes. Drop the item and pick it up with the opposite hand. Time yourself. This builds the baseline reflex of moving an instrument you cannot touch directly."
             },
             {
               "type": "video",
@@ -1144,7 +1146,8 @@
             },
             {
               "type": "step",
-              "content": "Challenge 3 - Precision Task: Option A (Cardboard): Using the graspers, tie a simple knot in a piece of string inside the box using only the camera view. Option B (Torso): Using the laparoscopic scissors, cut a circle from gauze as close to the drawn line as possible. Time limit: 5 minutes. Remember: every movement is reversed."
+              "content": "Challenge 3 - Precision Task: Option A (Cardboard): Using the graspers, tie a simple knot in a piece of string inside the box using only the camera view. Option B (Torso): Using the laparoscopic scissors, cut a circle from gauze as close to the drawn line as possible. Time limit: 5 minutes. Remember: every movement is reversed.",
+              "text": "Challenge 3 - Precision Task: Tie a simple overhand knot in a short piece of string using only the graspers. Both setups (cardboard box and torso) run this challenge the same way. The string has to sit flat against the surface inside the box or torso, not rise up. If the setup allows, try a second knot on top of the first. This is the exact motion a surgeon uses to close an internal suture."
             },
             {
               "type": "step",
