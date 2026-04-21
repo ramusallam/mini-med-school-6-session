@@ -25,7 +25,7 @@
             {
               "type": "callout",
               "content": "Your Patient: Marco Torres\n\nName: Marco Torres\nAge: 45   Occupation: Construction Foreman\n\nWhy he's here: Marco has been dizzy for 3 days. He feels tightness in his chest when he climbs stairs. His left arm has been tingling.\n\nWhat else you should know: He smokes half a pack of cigarettes a day. He works long hours in a high-stress job. His father had a heart attack at age 52. His doctor recently flagged elevated blood sugar at his last checkup.\n\nYour mission: You are Marco's medical team. Run a complete assessment -vital signs, heart, lungs, neuro -and figure out what's going on.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -68,7 +68,7 @@
             {
               "type": "callout",
               "content": "Marco reports dizziness and chest tightness. High blood pressure could explain both -and it's the #1 risk factor for heart attacks.",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "step",
@@ -86,7 +86,7 @@
             {
               "type": "callout",
               "content": "BP Classification: Normal = less than 120/80 | Elevated = 120-129 | Stage 1 Hypertension = 130-139/80-89 | Stage 2 Hypertension = 140+/90+ | Crisis = 180+/120+ (call 911)",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "heading",
@@ -96,7 +96,7 @@
             {
               "type": "callout",
               "content": "Low oxygen levels can cause dizziness. We need to check if Marco's blood is carrying enough oxygen to his brain.",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "step",
@@ -110,7 +110,7 @@
             {
               "type": "callout",
               "content": "Normal Ranges: SpO2 = 95-100% (below 95% means not enough oxygen) | Pulse = 60-100 BPM at rest (above 100 means the heart is working too hard)",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "heading",
@@ -120,7 +120,7 @@
             {
               "type": "callout",
               "content": "Marco's chest tightness could be his heart or his lungs. The stethoscope lets you listen to both and start narrowing down the cause.",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "step",
@@ -143,7 +143,7 @@
             {
               "type": "callout",
               "content": "Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that.",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "step",
@@ -171,7 +171,7 @@
             {
               "type": "callout",
               "content": "Marco's doctor flagged elevated blood sugar. A glucose meter measures blood sugar levels with a simple finger prick. This station is optional - your teacher will let you know if your program includes it.",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "step",
@@ -185,7 +185,7 @@
             {
               "type": "callout",
               "content": "Glucose Ranges: Normal (Fasting) = 70-99 mg/dL | Prediabetic = 100-125 mg/dL | Diabetic = 126+ mg/dL | Low (Hypoglycemia) = below 70 mg/dL",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "heading",
@@ -195,7 +195,7 @@
             {
               "type": "callout",
               "content": "When a doctor orders blood work based on vital signs findings, a phlebotomist or nurse draws blood from a vein. This station uses a training arm to practice the process.",
-              "style": "tip"
+              "style": "info"
             },
             {
               "type": "step",
@@ -280,7 +280,7 @@
             {
               "type": "callout",
               "content": "Marco's Actual ER Vitals\n\nThese are the real numbers from Marco's ER visit:\n\nBlood Pressure: 158/94 (Normal: less than 120/80)\nHeart Rate: 92 BPM (Normal: 60-100 BPM)\nSpO2: 96% (Normal: 95-100%)\nFasting Glucose: 118 mg/dL (Normal: 70-99, Prediabetic: 100-125)\nPupils: Equal and reactive\nReflexes: Normal (both sides)",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -340,7 +340,7 @@
             {
               "type": "callout",
               "content": "Career Spotlight: Paramedic / EMT\n\nParamedics are the first medical professionals on the scene in emergencies. They assess patients, provide life-saving treatment, and transport people to hospitals. Every skill you practiced today - vital signs, assessment, quick decision-making - is exactly what paramedics do every shift.\n\nEMT certification takes about 150 hours of training. Paramedic certification requires 1,200-1,800 hours.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -381,7 +381,7 @@
             {
               "type": "callout",
               "content": "Today's Case Briefing:\n\nMarco's cardiac catheterization reveals that his LAD (Left Anterior Descending) artery is 85% blocked. This artery feeds the front wall of the left ventricle - the chamber that powers the entire body. Doctors call it the \"widow-maker\" because a complete blockage here is often fatal. Your mission: dissect a real sheep heart, trace the blood flow circuit, and understand exactly why Marco's blockage is so dangerous.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -464,7 +464,7 @@
             {
               "type": "callout",
               "content": "Clean-Up Protocol: When you are finished, follow your teacher's disposal instructions carefully. Place the heart specimen back in the provided container. Dispose of gloves and paper towels in the designated biological waste bag. Wipe down your dissection tray and tools with disinfectant. Wash your hands thoroughly with soap and water.",
-              "style": "tip"
+              "style": "warning"
             },
             {
               "type": "checklist",
@@ -523,7 +523,7 @@
             {
               "type": "callout",
               "content": "Marco's Cardiology Report\n\nWhen Marco's LAD is 85% blocked, the front wall of his left ventricle is starving for oxygen. During exercise or stress, the heart muscle demands more oxygen than the narrowed artery can deliver. This causes the chest tightness Marco described (angina). If the blockage reaches 100%, that section of muscle dies within minutes - a myocardial infarction (heart attack). The left ventricle you measured today, the one with the thick muscular walls, is the chamber doing the most critical work. Losing it means the body cannot circulate blood effectively. This is why cardiologists treat LAD blockages so aggressively - stents, bypass surgery, medication - anything to restore blood flow before permanent damage occurs.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -568,7 +568,7 @@
             {
               "type": "callout",
               "content": "Career Spotlight: Cardiovascular Technologist\n\nCardiovascular technologists operate the imaging equipment that detected Marco's blockage. They perform echocardiograms, stress tests, and catheterization procedures. An associate's or bachelor's degree is required.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -614,7 +614,7 @@
             {
               "type": "callout",
               "content": "Today's Case Briefing:\n\nSofia Reyes, 16, skateboards into a metal rail. 5cm laceration on her right forearm, deep enough to see fatty tissue. She's terrified. Her parents are watching. The window to close this without infection is 6 hours. Learn the instruments. Master the technique. Because when you're in the ER with a scared kid, you don't get a second chance.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -698,7 +698,7 @@
             {
               "type": "callout",
               "content": "Sharps Disposal: All needles go directly into the sharps container - never set a needle down on the table loose. Count your needles at the end: every needle that went out must come back. Dispose of used suture material in the sharps container as well. This is a real OR protocol and it is non-negotiable.",
-              "style": "tip"
+              "style": "warning"
             },
             {
               "type": "checklist",
@@ -751,7 +751,7 @@
             {
               "type": "callout",
               "content": "Sofia's ER Treatment\n\nSofia's laceration is 5cm on the forearm - a common ER presentation. The attending physician chooses 3-0 non-absorbable nylon suture (the same material you practiced with) because the forearm is not a high-tension area and the sutures will be removed in 5-7 days. Five to seven stitches, evenly spaced, will close this wound. But here is what separates a good doctor from a great one: bedside manner. Sofia is 16 and terrified. Before the first stitch, the doctor explains every step, acknowledges her fear, ensures the local anesthetic has fully numbed the area, and talks her through the process. The technical skill matters, but the human skill matters just as much.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -796,7 +796,7 @@
             {
               "type": "callout",
               "content": "Career Spotlight: Emergency Medicine Physician\n\nER physicians handle lacerations, fractures, cardiac emergencies, and everything in between. The path is long (4 years undergrad, 4 years med school, 3-4 years residency) but the commitment reflects it. Every skill you practiced today is part of their daily work.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -842,7 +842,7 @@
             {
               "type": "callout",
               "content": "Today's Case Briefing:\n\nMarco Torres is heading to surgery. His diagnosis has expanded: in addition to the LAD blockage, imaging revealed gallstones causing inflammation. The surgical team will perform a laparoscopic cholecystectomy (gallbladder removal) through 3-4 tiny incisions. Before the first cut, the entire team scrubs in, gowns up, establishes sterile field, and runs the surgical timeout. Learn the instruments. Master sterile technique. Understand that every word on that timeout checklist protects your patient from disaster.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -925,7 +925,7 @@
             {
               "type": "callout",
               "content": "Complication Cards: Your teacher will hand your team a complication card at some point during the surgery. You will not know when it is coming. Possible complications: 'The sterile field has been broken - re-establish it now.' Or: 'Unexpected bleeding - the surgeon needs a hemostat immediately.' Or: 'The patient's oxygen is dropping - anesthesiologist, what do you do?' Your team must respond in real time without stopping the operation.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "callout",
@@ -983,7 +983,7 @@
             {
               "type": "callout",
               "content": "Marco's Surgical Safety Record\n\nIn 2007, the World Health Organization launched the Surgical Safety Checklist after research showed that simple communication failures caused more surgical errors than technical mistakes. A study of 8 hospitals across 8 countries found that the checklist reduced surgical complications by 36% and deaths by 47%. The timeout - that 60-second pause before the first incision where everyone confirms patient identity, procedure, and site - has prevented thousands of wrong-site surgeries. Closed-loop communication, where the receiver repeats back what was requested, catches misheard instructions before they become errors. These are not high-tech solutions. They are human solutions to human problems.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -1028,7 +1028,7 @@
             {
               "type": "callout",
               "content": "Career Spotlight: Operating Room Nurse\n\nOperating room nurses coordinate the entire surgical team, manage supplies, and serve as the patient's advocate while they are under anesthesia. They are the backbone of every surgery. BSN required.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -1074,7 +1074,7 @@
             {
               "type": "callout",
               "content": "Today's Case Briefing:\n\nMarco Torres is prepped for laparoscopic cholecystectomy. Three small incisions, a camera, and long instruments will be your only tools. But here is what nobody tells you: when you push your hand LEFT, the instrument tip goes RIGHT. When you push DOWN, the tip goes UP. The port in the abdominal wall acts as a pivot point that reverses every movement - like using chopsticks through a keyhole while watching on a TV screen. This is why laparoscopic surgery requires hundreds of hours of practice. Your mission: experience the fulcrum effect firsthand using real laparoscopic training boxes.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -1206,7 +1206,7 @@
             {
               "type": "callout",
               "content": "Marco's Surgical Outcome\n\nLaparoscopic surgery was revolutionary when it was introduced in the 1980s. Patients who once spent weeks recovering from open abdominal surgery could go home the next day. But the learning curve was steep and dangerous. Early studies showed that surgeons made significantly more errors during their first 50 laparoscopic procedures compared to their first 50 open surgeries. The fulcrum effect, the loss of depth perception (2D screen vs. 3D reality), and the reduced tactile feedback created a perfect storm of difficulty. Today, surgical simulation training (like what you just experienced) is mandatory before residents touch a real patient. The training boxes and virtual simulators have been proven to reduce errors by over 40%.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -1251,7 +1251,7 @@
             {
               "type": "callout",
               "content": "Career Spotlight: Biomedical Equipment Technician (BMET)\n\nBMETs maintain and repair all the equipment you used today - training boxes, cameras, monitors, and even surgical robots. An associate's degree is required. Without BMETs, no surgery happens.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
@@ -1297,7 +1297,7 @@
             {
               "type": "callout",
               "content": "Today's Case Briefing:\n\nA charter bus carrying a high school debate team has collided with a delivery truck. Fourteen students were on board; six are injured with varying severity. Paramedics are 15 minutes away. You are the first responders on scene. You have 15 minutes to assess all six patients, take vital signs, and assign triage tags: RED (immediate life threat - treat first), YELLOW (serious but stable - treat second), GREEN (walking wounded - treat last), or BLACK (expectant - comfort care only). After triage, you will rotate through three surgical simulation stations testing the skills from Sessions 3-5. Then each team presents their triage decisions to the group.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -1375,7 +1375,7 @@
             {
               "type": "callout",
               "content": "Station Clean-Up: Return all sharps to the sharps container and count your needles. Wipe down all instruments and the laparoscopic training box. Dispose of used gauze and suture material properly. Follow your teacher's instructions for station reset.",
-              "style": "tip"
+              "style": "warning"
             },
             {
               "type": "checklist",
@@ -1430,7 +1430,7 @@
             {
               "type": "callout",
               "content": "Triage Results Analysis\n\nThe triage decisions you just made are among the hardest in medicine. Consider Lena (13): crushing injuries, BP 88/54 (shock), HR 144, SpO2 89%. Those numbers together scream hypovolemic shock from internal bleeding - RED tag, treat first. Or James (14): deep thigh laceration, BP 98/62, HR 132 - hemorrhagic shock, also RED. But what about Ms. Chen, the bus driver, with BP 166/102 and chest pain? Is she having a cardiac event or a stress response? YELLOW or RED? These are real decisions that paramedics and ER physicians make every day. There is no perfect answer - only the best answer with the information available.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "step",
@@ -1475,7 +1475,7 @@
             {
               "type": "callout",
               "content": "Your Medical Journey\n\nOver six sessions, you've measured vital signs like a paramedic, dissected a heart like an anatomist, sutured wounds like a surgeon, managed an operating room like an OR nurse, performed laparoscopic surgery like a minimally invasive specialist, and triaged a mass casualty like an emergency physician. These aren't just activities - they're the real skills that real medical professionals use every day. Whether you pursue medicine, nursing, biomedical engineering, or something else entirely, you now understand what it means to hold someone's health in your hands.",
-              "style": "info"
+              "style": "case"
             },
             {
               "type": "video",
