@@ -1133,7 +1133,7 @@
             {
               "type": "step",
               "content": "Challenge 1 - Object Transfer: Using one grasper, pick up 6 objects (peg board pieces, candy, or small shapes depending on your setup) from one side. Transfer each object hand-to-hand in mid-air - pass from one instrument to the other without dropping. Place on the opposite side. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing.",
-              "text": "Challenge 1 - Object Transfer: Using one grasper, move 6 small items from one side of the setup to the other. Use whatever your kit has: gummy bears, pegs, wrapped candy (extra credit: unwrap one candy mid-challenge), or 3D-printed shapes. Drop the item and pick it up with the opposite hand. Time yourself. This builds the baseline reflex of moving an instrument you cannot touch directly."
+              "text": "Challenge 1 - Object Transfer: Using one grasper, move 6 small items (gummy bears, pegs, or 3D-printed shapes) from one side to the other. Drop each item mid-transfer and pick it up with the opposite hand. Time yourself. This builds the baseline reflex of moving an instrument you cannot touch directly."
             },
             {
               "type": "video",
@@ -1148,6 +1148,10 @@
               "type": "step",
               "content": "Challenge 3 - Precision Task: Option A (Cardboard): Using the graspers, tie a simple knot in a piece of string inside the box using only the camera view. Option B (Torso): Using the laparoscopic scissors, cut a circle from gauze as close to the drawn line as possible. Time limit: 5 minutes. Remember: every movement is reversed.",
               "text": "Challenge 3 - Precision Task: Tie a simple overhand knot in a short piece of string using only the graspers. Both setups (cardboard box and torso) run this challenge the same way. The string has to sit flat against the surface inside the box or torso, not rise up. If the setup allows, try a second knot on top of the first. This is the exact motion a surgeon uses to close an internal suture."
+            },
+            {
+              "type": "step",
+              "text": "Challenge 4 - Candy Unwrap: Take a foil-wrapped candy (Hershey Kiss, Starburst, or fun-size chocolate) and drop it inside the box or torso. Using two graspers (or one grasper plus small scissors), unwrap the candy without ever touching it with your hands and without looking directly into the box or torso - only the camera screen. Don't crush it. Time yourself. This is the real drill surgeons practice: two-instrument coordination, fine motor control, and indirect visual feedback, all at once. If you succeed without crushing, eat it."
             },
             {
               "type": "step",
