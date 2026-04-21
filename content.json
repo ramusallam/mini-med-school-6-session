@@ -75,10 +75,6 @@
               "content": "Measure Resting BP: Wrap the cuff snugly around your partner's bare upper arm, just above the elbow. Press START and stay completely still and quiet until the reading appears. In your notebook, record the systolic (top number) and diastolic (bottom number)."
             },
             {
-              "type": "heading",
-              "content": "Watch: Blood Pressure Technique"
-            },
-            {
               "type": "video",
               "url": "llosVAoeojQ",
               "title": "How to Take Blood Pressure"
@@ -107,10 +103,6 @@
               "content": "Check Oxygen and Pulse: Clip the sensor onto your index finger. Wait for a stable number (about 10 seconds). In your notebook, record SpO2 (oxygen %) and Pulse (heart rate). Try a different finger -does the reading change? Switch with your partner and repeat."
             },
             {
-              "type": "heading",
-              "content": "Watch: Using a Pulse Oximeter"
-            },
-            {
               "type": "video",
               "url": "lk5zp-5aB_w",
               "title": "How to Use a Pulse Oximeter"
@@ -133,10 +125,6 @@
             {
               "type": "step",
               "content": "Listen to the Heart: Clean the earpieces with an alcohol wipe. Put the earpieces in with the tips angled forward (toward your nose). Place the flat part (diaphragm) on your partner's upper left chest. Listen for the heartbeat: LUB-DUB."
-            },
-            {
-              "type": "heading",
-              "content": "Watch: Stethoscope Technique"
             },
             {
               "type": "video",
@@ -162,10 +150,6 @@
               "content": "PERRLA Eye Exam: PERRLA stands for: Pupils Equal, Round, Reactive to Light, Accommodation. Dim the lights slightly, shine the penlight into your partner's left eye, and watch BOTH pupils - they should both get smaller. Repeat with the right eye."
             },
             {
-              "type": "heading",
-              "content": "Watch: PERRLA Eye Exam"
-            },
-            {
               "type": "video",
               "url": "LK4qB3nl0VE",
               "title": "PERRLA Nursing Assessment of the Eyes"
@@ -173,10 +157,6 @@
             {
               "type": "step",
               "content": "Patellar Reflex (Knee Jerk): Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee - is the response the same on both sides?"
-            },
-            {
-              "type": "heading",
-              "content": "Watch: Patellar Reflex"
             },
             {
               "type": "video",
@@ -196,10 +176,6 @@
             {
               "type": "step",
               "content": "Blood Glucose Test: If your program includes this station, wash your hands and dry them completely. Your teacher will supervise the finger-prick process using the glucose meter. Place a small drop of blood on the test strip. Wait for the reading (about 5 seconds). Record the number in your notebook. Normal fasting glucose is 70-99 mg/dL. If your program does not include finger-prick testing, your teacher will demonstrate the process and you can enter sample values in the app."
-            },
-            {
-              "type": "heading",
-              "content": "Watch: Finger Stick Glucose"
             },
             {
               "type": "video",
@@ -224,10 +200,6 @@
             {
               "type": "step",
               "content": "Venipuncture Practice: Using the training arm, locate the vein by feeling for a soft, bouncy tube in the inner elbow area. Apply the tourniquet above the site. Clean the area with an alcohol wipe. Practice inserting the needle at a 15-30 degree angle with the bevel facing up. Your teacher will guide you through each step. This is a simulation - the training arm has artificial veins filled with simulated blood."
-            },
-            {
-              "type": "heading",
-              "content": "Watch: Venipuncture Technique"
             },
             {
               "type": "video",
@@ -464,10 +436,6 @@
               "content": "External Anatomy: Examine the outside of the heart before making any cuts. Locate the coronary arteries - those thin vessels on the surface that feed the heart muscle itself. Find the interventricular sulcus, the deep groove between ventricles. Identify the great vessels: the massive aorta leaving the top, the vena cava entering from above and below, the pulmonary arteries."
             },
             {
-              "type": "heading",
-              "content": "Watch: Heart Dissection Walkthrough"
-            },
-            {
               "type": "video",
               "url": "u7aulbVvU2s",
               "title": "Heart Dissection Tutorial"
@@ -649,11 +617,6 @@
               "style": "info"
             },
             {
-              "type": "video",
-              "url": "z8oWv-nVO6g",
-              "title": "Simple Interrupted Suture Technique"
-            },
-            {
               "type": "step",
               "content": "Why does Sofia have a 6-hour window to close this wound?"
             },
@@ -687,11 +650,6 @@
               "style": "info"
             },
             {
-              "type": "video",
-              "url": "2jSwlkc9X44",
-              "title": "How to Perform a Surgeon's Knot (Instrument Tie)"
-            },
-            {
               "type": "step",
               "content": "Surgical Dexterity Trainer App: Warm up your hand-eye coordination with the digital trainer before touching any instruments. Complete at least two rounds of the steady-hand trace and one round of precision targeting. This is harder than it looks."
             },
@@ -710,11 +668,6 @@
               "content": "Banana Practice: Start on a banana skin - its forgiving. Make a small cut, then place 3 simple interrupted sutures. Enter at 90 degrees. Even passage through both sides. 5mm spacing. Get the motion right before you move to something that matters."
             },
             {
-              "type": "heading",
-              "content": "Watch: Banana Suturing",
-              "level": "h4"
-            },
-            {
               "type": "video",
               "url": "yvmwDNGnbCE",
               "title": "Sutures on Banana: Focused Tutorial"
@@ -724,11 +677,6 @@
               "content": "Suture Pad Practice: Move to the silicone pad - the pre-cut slits feel more like real tissue resistance. Place 3 simple interrupted sutures. Your goal: edges meet without overlapping, spacing is even, knots lie flat."
             },
             {
-              "type": "heading",
-              "content": "Watch: Simple Interrupted on a Suture Pad",
-              "level": "h4"
-            },
-            {
               "type": "video",
               "url": "pGEJEUZFIEk",
               "title": "Simple Interrupted Suture: Step-by-Step"
@@ -736,11 +684,6 @@
             {
               "type": "step",
               "content": "Instrument Tie: The hardest part is the instrument knot. First throw counterclockwise - wrap, grab, pull. Second throw clockwise - same motion, opposite direction. This creates a square knot. It will not slip."
-            },
-            {
-              "type": "heading",
-              "content": "Watch: The Instrument Tie",
-              "level": "h4"
             },
             {
               "type": "video",
@@ -954,10 +897,6 @@
               "content": "Sterile Technique Practice: Practice closed gloving technique: with your gown sleeves still covering your hands, use one gloved hand to pull the second glove onto the other hand without any bare skin touching the outside of either glove. Remember the one-inch border rule: the outer 1 inch of any sterile drape is considered non-sterile."
             },
             {
-              "type": "heading",
-              "content": "Watch: Applying Sterile Gloves"
-            },
-            {
               "type": "video",
               "url": "xj8EAjJGn98",
               "title": "How to Apply Sterile Gloves"
@@ -965,10 +904,6 @@
             {
               "type": "step",
               "content": "Set Up a Sterile Field: Lay out the sterile drape on your work surface. Without breaking the sterile field, arrange instruments in the correct positions. Remember: if your bare hand crosses over the field, if you reach across it, or if you turn your back to it, the field is broken and must be re-established."
-            },
-            {
-              "type": "heading",
-              "content": "Watch: Setting Up a Sterile Field"
             },
             {
               "type": "video",
@@ -1143,8 +1078,8 @@
             },
             {
               "type": "video",
-              "url": "IB_NMkMF-qU",
-              "title": "Laparoscopic Surgery Overview"
+              "url": "XOKJPfqznOI",
+              "title": "Introduction to Laparoscopic Surgery"
             },
             {
               "type": "step",
@@ -1197,10 +1132,6 @@
             {
               "type": "step",
               "content": "Challenge 1 - Object Transfer: Using one grasper, pick up 6 objects (peg board pieces, candy, or small shapes depending on your setup) from one side. Transfer each object hand-to-hand in mid-air - pass from one instrument to the other without dropping. Place on the opposite side. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing."
-            },
-            {
-              "type": "heading",
-              "content": "Watch: Laparoscopic Peg Transfer"
             },
             {
               "type": "video",
@@ -1369,11 +1300,6 @@
               "style": "info"
             },
             {
-              "type": "video",
-              "url": "73kJ-4gEsnA",
-              "title": "Mass Casualty Triage - START Method"
-            },
-            {
               "type": "step",
               "content": "With 6 patients and 15 minutes, how much time do you have per patient? How will you prioritize?"
             },
@@ -1419,10 +1345,6 @@
             {
               "type": "step",
               "content": "Triage Assessment (15 minutes): Visit each of the 6 patient stations. Read the scenario card aloud, measure vital signs (BP, HR, SpO2, temperature), perform a quick physical assessment (PERRLA, motor/sensory check, or lung auscultation as appropriate), record your findings in your notebook, and assign a triage color. In your notebook, draw a table with columns for Patient, Vital Signs, Assessment, Triage Color, and Priority Rank. Rank all 6 patients from 1 (most critical) to 6 (least critical)."
-            },
-            {
-              "type": "heading",
-              "content": "Watch: START Triage Method"
             },
             {
               "type": "video",
