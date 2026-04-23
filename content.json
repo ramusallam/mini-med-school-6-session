@@ -318,7 +318,7 @@
             },
             {
               "type": "step",
-              "content": "Go Deeper: Now that you know Marco's real numbers, open the app and try Explore Mode. Load Marco Torres and see how his ER vitals classify. Toggle his pupils to abnormal and watch what changes. Load the Stroke Alert and Sepsis Patient to see what critical vitals look like. When you're ready, take the Quiz - 8 clinical scenarios to test whether you can think like a doctor."
+              "content": "Go Deeper: Now that you know Marco's real numbers, open the app and try **Explore Mode**. Load **Marco Torres** and see how his ER vitals classify. Flip off one of the PERRLA toggles (**Pupils Equal in size**, **Pupils Round**, or **Accommodation (focus near/far)**) and watch the Abnormal Finding Detected banner appear. Load **Stroke Alert** and **Sepsis Patient** to see what critical vitals look like. When you're ready, try **Quiz Mode** - 8 clinical scenarios to test whether you can think like a doctor."
             },
             {
               "type": "app",
@@ -496,11 +496,11 @@
           "blocks": [
             {
               "type": "text",
-              "content": "You've dissected the heart and measured the walls. Now open the Heart Anatomy Explorer in learning mode - use it to confirm what you just saw in the specimen and test your understanding of the 4 chambers, valves, and blood flow."
+              "content": "You've dissected the heart and measured the walls. Now open the Heart Anatomy Explorer - use it to confirm what you just saw in the specimen and test your understanding of the 4 chambers, valves, and blood flow."
             },
             {
               "type": "step",
-              "content": "Explore the 4 Chambers: Open the Explore tab and click each chamber, valve, and great vessel. Match what you see on screen to what you held in your hands. If anything feels unfamiliar, go back to your specimen and find it. Then switch to the Blood Flow tab and trace the full circuit - your dissection probe path should match exactly."
+              "content": "Explore the 4 Chambers: Open the **The Heart** tab and click each chamber, valve, and great vessel. Match what you see on screen to what you held in your hands. If anything feels unfamiliar, go back to your specimen and find it. Then switch to the **Blood Flow Journey** tab and trace the full circuit - your dissection probe path should match exactly."
             },
             {
               "type": "app",
@@ -551,7 +551,7 @@
             },
             {
               "type": "step",
-              "content": "Predict Marco's Blockage: Open the Heart Anatomy Explorer in pattern recognition mode. Go to the Blockage Simulator tab and drag the slider to 85% - Marco's exact number. Predict before you look: which wall loses blood supply? What happens to pumping pressure? Then check the app's output against your prediction. This is how cardiologists read an angiogram."
+              "content": "Predict Marco's Blockage: Open the Heart Anatomy Explorer and go to the **Marco's Blockage** tab. Drag the slider to 85% - Marco's exact number. Predict before you look: which wall loses blood supply? What happens to pumping pressure? Then check the app's output against your prediction. This is how cardiologists read an angiogram."
             },
             {
               "type": "app",
@@ -673,7 +673,7 @@
             },
             {
               "type": "step",
-              "content": "Surgical Dexterity Trainer App: Warm up your hand-eye coordination with the digital trainer before touching any instruments. Complete at least two rounds of the steady-hand trace and one round of precision targeting. This is harder than it looks."
+              "content": "Surgical Dexterity Trainer App: Warm up your hand-eye coordination with the digital trainer before touching any instruments. Complete at least two rounds of **Precision Path Tracing** and one round of **Precision Targeting**. This is harder than it looks."
             },
             {
               "type": "app",
@@ -924,7 +924,7 @@
             },
             {
               "type": "step",
-              "content": "Instrument ID Game App: Learn to identify 10 critical surgical instruments using the interactive game. Start with the study cards to learn each instrument's name, purpose, and key features. Then test yourself in the quiz mode and speed round. Goal: identify all 10 instruments correctly under time pressure."
+              "content": "Instrument ID Game App: Learn to identify 10 critical surgical instruments using the interactive game. Start with **Study Cards** to learn each instrument's name, purpose, and key features. Then test yourself in **Knowledge Quiz** and **Speed Round**. Goal: identify all 10 instruments correctly under time pressure."
             },
             {
               "type": "app",
@@ -1039,7 +1039,7 @@
             },
             {
               "type": "step",
-              "content": "Under Pressure: Open the Instrument ID Game in speed/quiz mode. Can you pass the correct instrument named by a complication - under time pressure? This is exactly what a scrub tech does when the surgeon says \"bleeder, hemostat now.\" One wrong instrument and Marco loses time he doesn't have."
+              "content": "Under Pressure: Open the Instrument ID Game and run **Speed Round** or **Knowledge Quiz**. Can you pass the correct instrument named by a complication - under time pressure? This is exactly what a scrub tech does when the surgeon says \"bleeder, hemostat now.\" One wrong instrument and Marco loses time he doesn't have."
             },
             {
               "type": "app",
@@ -1500,7 +1500,7 @@
             },
             {
               "type": "step",
-              "content": "Triage with Clinical Reasoning: Open the Triage Simulator one more time. Re-run the bus crash scenario. Before, you triaged instinctively. Now apply clinical reasoning from vital signs, anatomy, suturing, instruments, and laparoscopy. Does your triage order change? Which patients do you tag differently now that you understand what the numbers actually mean?"
+              "content": "Triage with Clinical Reasoning: Open the Triage Simulator one more time. Pick any of the three scenarios - **Building Collapse**, **Highway Pileup**, or **School Shooting** - and re-tag the patients. Before, you triaged instinctively. Now apply clinical reasoning from vital signs, anatomy, suturing, instruments, and laparoscopy. Does your tagging change? Which patients do you tag differently now that you understand what the numbers actually mean?"
             },
             {
               "type": "app",
