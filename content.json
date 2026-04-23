@@ -142,12 +142,21 @@
             },
             {
               "type": "callout",
-              "content": "Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that.",
+              "content": "Tingling in Marco's arm and dizziness could mean his brain and nerves aren't communicating properly. These quick tests check that. PERRLA stands for Pupils Equal, Round, Reactive to Light, Accommodation.",
               "style": "info"
             },
             {
+              "type": "callout",
+              "content": "Safety: the reflex hammer is a tool, not a toy. Tap the patellar tendon gently, never the kneecap itself. For the PERRLA penlight check, don't shine the light directly into a partner's eye for more than a moment.",
+              "style": "tip"
+            },
+            {
               "type": "step",
-              "content": "PERRLA Eye Exam: PERRLA stands for: Pupils Equal, Round, Reactive to Light, Accommodation. Dim the lights slightly, shine the penlight into your partner's left eye, and watch BOTH pupils - they should both get smaller. Repeat with the right eye."
+              "content": "PERRLA Step 1 - Estimate Pupil Size: Look at both of your partner's eyes in normal room lighting. Are the pupils the same size? Roughly how big (in mm)? Unequal pupils (anisocoria) can indicate stroke, head injury, or neurological disease. Record what you see."
+            },
+            {
+              "type": "step",
+              "content": "PERRLA Step 2 - Light Reactivity: Dim the lights slightly. Shine the penlight into your partner's left eye and watch BOTH pupils — they should both constrict quickly (called the consensual response). Repeat with the right eye. Delayed or absent constriction can indicate brain injury."
             },
             {
               "type": "video",
@@ -156,12 +165,25 @@
             },
             {
               "type": "step",
-              "content": "Patellar Reflex (Knee Jerk): Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee - is the response the same on both sides?"
+              "content": "PERRLA Step 3 - Check Accommodation: Hold your finger about 30 cm from your partner's face. Ask them to focus on your finger, then on a distant object behind you. As they switch focus, both pupils should change size together. Smooth accommodation indicates healthy brainstem function."
+            },
+            {
+              "type": "step",
+              "content": "Patellar Reflex (Knee Jerk): Have your partner sit with their legs hanging freely. Using the reflex hammer, give a gentle tap just below the kneecap. Watch for the knee-jerk response. Try the other knee — is the response the same on both sides? Absent or asymmetric reflex can indicate spinal cord or nerve root damage."
             },
             {
               "type": "video",
               "url": "Ll8r5i0eaT8",
               "title": "Patellar Reflex Test"
+            },
+            {
+              "type": "callout",
+              "content": "Did You Know? Your patellar reflex happens in about 50 milliseconds — faster than you can blink. The signal never reaches your brain. It travels only to the spinal cord and back. That's why reflex testing is one of the fastest ways to check spinal cord integrity.",
+              "style": "tip"
+            },
+            {
+              "type": "step",
+              "content": "Interpret Your Findings: Compare findings across your partner and yourself. If a patient had one dilated pupil that didn't react to light, and an absent reflex on that same side, what might you suspect? What are the stakes of catching this in under a minute?"
             },
             {
               "type": "heading",
@@ -423,16 +445,6 @@
             },
             {
               "type": "step",
-              "content": "Orient Yourself: Heart Anatomy Explorer: Before you pick up a scalpel, explore the heart digitally. Use the Explore tab to learn the four chambers, major vessels, and valves. Then trace the blood flow circuit in the Blood Flow tab. This gives you a mental map so you know exactly what you're looking for when you open the real heart."
-            },
-            {
-              "type": "app",
-              "url": "apps/heart-anatomy-explorer.html",
-              "title": "Heart Anatomy Explorer",
-              "embed": true
-            },
-            {
-              "type": "step",
               "content": "External Anatomy: Examine the outside of the heart before making any cuts. Locate the coronary arteries - those thin vessels on the surface that feed the heart muscle itself. Find the interventricular sulcus, the deep groove between ventricles. Identify the great vessels: the massive aorta leaving the top, the vena cava entering from above and below, the pulmonary arteries."
             },
             {
@@ -484,11 +496,11 @@
           "blocks": [
             {
               "type": "text",
-              "content": "You've dissected the heart and measured the walls. Now use the interactive tools to map what you found and analyze Marco's blockage."
+              "content": "You've dissected the heart and measured the walls. Now open the Heart Anatomy Explorer in learning mode - use it to confirm what you just saw in the specimen and test your understanding of the 4 chambers, valves, and blood flow."
             },
             {
               "type": "step",
-              "content": "Map the Blockage: Use the Heart Anatomy Explorer's Blockage Simulator tab - drag the slider to 85% to see exactly what happens to Marco's heart. Then on your anatomical model or diagram, mark where the LAD artery runs along the front of the heart. Shade the area of the left ventricle that would lose blood supply if the LAD were completely blocked."
+              "content": "Explore the 4 Chambers: Open the Explore tab and click each chamber, valve, and great vessel. Match what you see on screen to what you held in your hands. If anything feels unfamiliar, go back to your specimen and find it. Then switch to the Blood Flow tab and trace the full circuit - your dissection probe path should match exactly."
             },
             {
               "type": "app",
@@ -504,7 +516,7 @@
               "type": "checklist",
               "items": [
                 {
-                  "text": "I mapped the blockage and compared chamber measurements"
+                  "text": "I explored the digital heart and compared chamber measurements"
                 }
               ]
             }
@@ -538,10 +550,20 @@
               "content": "If you were Marco's cardiologist, what treatment would you recommend and why?"
             },
             {
+              "type": "step",
+              "content": "Predict Marco's Blockage: Open the Heart Anatomy Explorer in pattern recognition mode. Go to the Blockage Simulator tab and drag the slider to 85% - Marco's exact number. Predict before you look: which wall loses blood supply? What happens to pumping pressure? Then check the app's output against your prediction. This is how cardiologists read an angiogram."
+            },
+            {
+              "type": "app",
+              "url": "apps/heart-anatomy-explorer.html",
+              "title": "Heart Anatomy Explorer",
+              "embed": true
+            },
+            {
               "type": "checklist",
               "items": [
                 {
-                  "text": "I connected my dissection findings to Marco's diagnosis"
+                  "text": "I connected my dissection findings to Marco's diagnosis and predicted his blockage pattern"
                 }
               ]
             }
@@ -726,13 +748,31 @@
             },
             {
               "type": "step",
+              "content": "Score Your Hand-Eye Coordination: Open the Surgical Dexterity Trainer again and repeat the precision targeting task. Compare your score to your warmup round at the start of the session. Your brain has been rewiring for 45 minutes of real stitches - the data should show it."
+            },
+            {
+              "type": "app",
+              "url": "apps/surgical-dexterity-trainer.html",
+              "title": "Surgical Dexterity Trainer",
+              "embed": true
+            },
+            {
+              "type": "step",
+              "content": "Did your precision score improve from your warmup? If yes, by how much? If no, what changed in your technique that might have hurt accuracy?"
+            },
+            {
+              "type": "step",
+              "content": "Which was harder: the digital targeting task or the real stitches? Why? What does that tell you about how surgeons train?"
+            },
+            {
+              "type": "step",
               "content": "Plan Sofia's Treatment: Write a brief treatment plan: what suture type and size would you use? How many stitches? What post-care instructions would you give Sofia? What would you say to calm her down?"
             },
             {
               "type": "checklist",
               "items": [
                 {
-                  "text": "I assessed my suturing skills and planned Sofia's treatment"
+                  "text": "I assessed my suturing skills, re-ran the dexterity trainer, and planned Sofia's treatment"
                 }
               ]
             }
@@ -998,10 +1038,20 @@
               "content": "During your team simulation, what was the biggest communication challenge? How would you fix it in a real OR?"
             },
             {
+              "type": "step",
+              "content": "Under Pressure: Open the Instrument ID Game in speed/quiz mode. Can you pass the correct instrument named by a complication - under time pressure? This is exactly what a scrub tech does when the surgeon says \"bleeder, hemostat now.\" One wrong instrument and Marco loses time he doesn't have."
+            },
+            {
+              "type": "app",
+              "url": "apps/instrument-id-game.html",
+              "title": "Instrument ID Game",
+              "embed": true
+            },
+            {
               "type": "checklist",
               "items": [
                 {
-                  "text": "I connected safety protocols to Marco's surgical case"
+                  "text": "I connected safety protocols to Marco's surgical case and passed instruments under pressure"
                 }
               ]
             }
@@ -1121,8 +1171,7 @@
             },
             {
               "type": "step",
-              "content": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box. The fulcrum effect is disorienting, so start with 2 rounds of precision targeting to calibrate your fine motor skills. Notice how even on a flat screen, small movements require concentration.",
-              "text": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box or torso. The fulcrum effect is disorienting - left becomes right, down becomes up. Build your brain's map first, then switch to real graspers."
+              "content": "Surgical Dexterity Trainer App: Warm up with the digital trainer before touching the training box or torso. The fulcrum effect is disorienting - left becomes right, down becomes up. Start with 2 rounds of precision targeting to calibrate your fine motor skills. Build your brain's map first, then switch to real graspers."
             },
             {
               "type": "app",
@@ -1132,8 +1181,7 @@
             },
             {
               "type": "step",
-              "content": "Challenge 1 - Object Transfer: Using one grasper, pick up 6 objects (peg board pieces, candy, or small shapes depending on your setup) from one side. Transfer each object hand-to-hand in mid-air - pass from one instrument to the other without dropping. Place on the opposite side. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing.",
-              "text": "Challenge 1 - Object Transfer: Using one grasper, move 6 small items (gummy bears, pegs, or 3D-printed shapes) from one side to the other. Drop each item mid-transfer and pick it up with the opposite hand. Time yourself. This builds the baseline reflex of moving an instrument you cannot touch directly."
+              "content": "Challenge 1 - Object Transfer: Using one grasper, pick up 6 objects (peg board pieces, gummy bears, or small 3D shapes depending on your setup) from one side. Transfer each object hand-to-hand in mid-air - pass from one instrument to the other without dropping - and place on the opposite side. Time limit: 5 minutes. Benchmarks: under 5 minutes is excellent, 5-8 minutes is good, over 8 minutes means keep practicing. This builds the baseline reflex of moving an instrument you cannot touch directly."
             },
             {
               "type": "video",
@@ -1146,12 +1194,11 @@
             },
             {
               "type": "step",
-              "content": "Challenge 3 - Precision Task: Option A (Cardboard): Using the graspers, tie a simple knot in a piece of string inside the box using only the camera view. Option B (Torso): Using the laparoscopic scissors, cut a circle from gauze as close to the drawn line as possible. Time limit: 5 minutes. Remember: every movement is reversed.",
-              "text": "Challenge 3 - Precision Task: Tie a simple overhand knot in a short piece of string using only the graspers. Both setups (cardboard box and torso) run this challenge the same way. The string has to sit flat against the surface inside the box or torso, not rise up. If the setup allows, try a second knot on top of the first. This is the exact motion a surgeon uses to close an internal suture."
+              "content": "Challenge 3 - Precision Task: Tie a simple overhand knot in a short piece of string using only the graspers, guided only by the camera view. Both setups (cardboard box and torso) run this challenge the same way. The string has to sit flat against the surface inside the box or torso, not rise up. If the setup allows, try a second knot on top of the first. Time limit: 5 minutes. Remember: every movement is reversed. This is the exact motion a surgeon uses to close an internal suture."
             },
             {
               "type": "step",
-              "text": "Challenge 4 - Candy Unwrap: Take a foil-wrapped candy (Hershey Kiss, Starburst, or fun-size chocolate) and drop it inside the box or torso. Using two graspers (or one grasper plus small scissors), unwrap the candy without ever touching it with your hands and without looking directly into the box or torso - only the camera screen. Don't crush it. Time yourself. This is the real drill surgeons practice: two-instrument coordination, fine motor control, and indirect visual feedback, all at once. If you succeed without crushing, eat it."
+              "content": "Challenge 4 - Candy Unwrap: Take a foil-wrapped candy (Hershey Kiss, Starburst, or fun-size chocolate) and drop it inside the box or torso. Using two graspers (or one grasper plus small scissors), unwrap the candy without ever touching it with your hands and without looking directly into the box or torso - only the camera screen. Don't crush it. Time yourself. This is the real drill surgeons practice: two-instrument coordination, fine motor control, and indirect visual feedback, all at once. If you succeed without crushing, eat it."
             },
             {
               "type": "step",
@@ -1452,10 +1499,24 @@
               "content": "What skill from the past 5 sessions helped you the most during today's simulation?"
             },
             {
+              "type": "step",
+              "content": "Triage with Clinical Reasoning: Open the Triage Simulator one more time. Re-run the bus crash scenario. Before, you triaged instinctively. Now apply clinical reasoning from vital signs, anatomy, suturing, instruments, and laparoscopy. Does your triage order change? Which patients do you tag differently now that you understand what the numbers actually mean?"
+            },
+            {
+              "type": "app",
+              "url": "apps/triage-simulator.html",
+              "title": "Triage Simulator",
+              "embed": true
+            },
+            {
+              "type": "step",
+              "content": "Which patients did you tag differently on the second run? What changed your mind - a vital sign threshold, an anatomical insight, or a surgical-risk factor?"
+            },
+            {
               "type": "checklist",
               "items": [
                 {
-                  "text": "I compared my triage decisions to the clinical analysis"
+                  "text": "I compared my triage decisions to the clinical analysis and re-triaged with clinical reasoning"
                 }
               ]
             }
@@ -1478,6 +1539,38 @@
             {
               "type": "step",
               "content": "Will you pursue healthcare as a career? What role interests you most and why?"
+            },
+            {
+              "type": "callout",
+              "content": "Healthcare Is 350+ Careers\n\nOver these six sessions you've practiced vital signs, heart anatomy, wound closure, sterile OR protocol, laparoscopic surgery, and mass-casualty triage. Each skill maps to a corner of healthcare. The question isn't whether there's a career for you here — it's which one fits your temperament, timeline, and the kind of day you want to have.",
+              "style": "case"
+            },
+            {
+              "type": "video",
+              "url": "d2zPOQRHitk",
+              "title": "What is Allied Health?"
+            },
+            {
+              "type": "step",
+              "content": "Map Your Skills to Careers: Which session energized you the most? Vitals → Paramedic, EMT, Cardiac Nurse. Heart dissection → Cardiovascular Technologist, Cardiologist. Suturing → Emergency Physician, Surgeon, NP. Sterile OR → Surgical Technologist, OR Nurse. Laparoscopic → Biomedical Engineer, Surgical Robotics Specialist. Triage → Emergency Medicine, Disaster Response. Pick two categories that pulled at you."
+            },
+            {
+              "type": "step",
+              "content": "Salary vs. Timeline: Some paths take 4-6 weeks (EMT) or 2 years (Surgical Tech, Paramedic). Others take 8-14 years (Physician, Specialist). Salary ranges span $30K to $500K+. Which trade-off fits the life you want?"
+            },
+            {
+              "type": "video",
+              "url": "p-cOdoy43WA",
+              "title": "BMET Career Spotlight"
+            },
+            {
+              "type": "callout",
+              "content": "Did You Know? The fastest-growing healthcare job in the US isn't physician or nurse — it's home health aide. But the fastest-growing high-salary role is nurse practitioner, projected to grow 40% by 2032. Allied Health (techs, therapists, aides, technicians) represents 60% of the healthcare workforce.",
+              "style": "tip"
+            },
+            {
+              "type": "step",
+              "content": "Commit to One Next Step: Research one program, shadow one professional, or email one person working in a category that interests you. Write the name or program in your notebook. One step is how it starts."
             },
             {
               "type": "callout",
