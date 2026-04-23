@@ -19,6 +19,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "You're about to meet a real patient. Everything you learn today starts with his story."
             },
@@ -55,6 +60,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "callout",
               "content": "Materials: Automatic BP cuff (or manual cuff + stethoscope), Fingertip pulse oximeter, Stethoscope, Penlight, Reflex hammer, Alcohol wipes, [Optional] Glucose meter + test strips + lancets, [Optional] Venipuncture training arm + tourniquet + practice needles",
@@ -250,6 +260,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "Raw numbers don't help a patient. You need to figure out what they MEAN by comparing them to normal ranges."
             },
@@ -295,6 +310,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "text",
               "content": "You've learned what normal looks like. Now compare that to Marco's actual numbers and see if your instincts were right."
@@ -342,6 +362,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "step",
               "content": "What was the most surprising thing you learned today?"
@@ -393,6 +418,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "The human heart beats 100,000 times per day, pushing blood through 60,000 miles of vessels. One blockage in the wrong place and the whole system fails. That's why knowing the anatomy isn't optional - it's survival."
             },
@@ -438,6 +468,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "callout",
               "content": "Materials: Preserved sheep heart (formalin), Dissection tray and kit, Safety goggles, Disposable lab apron, Anatomical heart model, Probe and pins, Paper towels",
@@ -495,6 +530,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "You've dissected the heart and measured the walls. Now open the Heart Anatomy Explorer - use it to confirm what you just saw in the specimen and test your understanding of the 4 chambers, valves, and blood flow."
             },
@@ -528,6 +568,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "text",
               "content": "You've seen the anatomy up close and mapped the blockage. Now connect your findings to Marco's real situation."
@@ -575,6 +620,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "step",
               "content": "What surprised you most about the inside of the heart?"
@@ -626,6 +676,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "Suturing is the difference between scarring and healing, between infection and safety. It's been the same technique for 5,000 years because the technique is perfect."
             },
@@ -666,6 +721,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "callout",
               "content": "Materials: Suture practice kit (needle driver, tissue forceps, scissors), Suture packets (3-0 nylon with needle), Silicone suture practice pad, Bananas (for initial practice), Sharps container (safety - non-negotiable), Ruler for spacing, Gloves",
@@ -739,6 +799,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "You've practiced the technique. Now assess your own work and determine what quality suturing actually looks like."
             },
@@ -785,6 +850,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "You've practiced suturing and assessed your technique. Now see how a real ER team would handle Sofia's case."
             },
@@ -821,6 +891,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "step",
               "content": "What was the hardest part of learning to suture? What made it difficult?"
@@ -872,6 +947,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "The operating room is the safest place on Earth - not because of luck, but because every person, every instrument, every movement follows exact protocol. One deviation and someone gets hurt."
             },
@@ -917,6 +997,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "callout",
               "content": "Materials: Sterile gloves (multiple sizes), Surgical instrument display set, Sterile drape (practice field), Printed instrument identification cards, Timer for communication drills, Laminated surgical team role cards",
@@ -968,9 +1053,9 @@
               "style": "case"
             },
             {
-              "type": "callout",
-              "style": "case",
-              "content": "<p><strong>Teacher Card Deck</strong> (8 cards). Print this page. Cut along the dividers. Deploy one card per team mid-simulation once closed-loop communication feels smooth. Observe, then debrief each card briefly after.</p>\n<hr>\n<p><strong>Card 1: Sterile Field Break</strong> (hand to Scrub Tech)<br>Your glove just brushed the surgical drape. The sterile field is broken. Re-establish it now without stopping the operation.<br><em>Success:</em> Re-gloves, swaps compromised instruments, communicates to team. <em>Pitfall:</em> Panic, freezing, hiding the break.</p>\n<hr>\n<p><strong>Card 2: Unexpected Bleeding</strong> (Surgeon and Scrub Tech)<br>The surgical site is bleeding heavily. Surgeon, name the instrument you need. Scrub Tech, respond.<br><em>Success:</em> Surgeon calls 'Hemostat'; Scrub Tech repeats 'Hemostat' and passes with closed-loop. <em>Pitfall:</em> Wrong instrument called or passed silently.</p>\n<hr>\n<p><strong>Card 3: Dropping Oxygen</strong> (Anesthesiologist)<br>SpO2 just dropped from 98% to 89%. Anesthesiologist, what do you do first?<br><em>Success:</em> Announces the drop, checks airway and circuit, increases FiO2, calls for help if needed. <em>Pitfall:</em> Silent observation or ignoring it.</p>\n<hr>\n<p><strong>Card 4: Sponge Count Discrepancy</strong> (Circulating Nurse)<br>The final sponge count does not match. One may be inside the patient. What is your action?<br><em>Success:</em> Stops closure, alerts surgeon, initiates systematic search. <em>Pitfall:</em> Closing anyway to save time.</p>\n<hr>\n<p><strong>Card 5: Wrong-Site Near-Miss</strong> (Whole Team)<br>During the timeout, a team member notices the surgical marker is on the wrong side. What happens next?<br><em>Success:</em> Full stop. Re-verify patient ID, consent, imaging. Correct site marked before incision. <em>Pitfall:</em> Surgeon overrides the concern.</p>\n<hr>\n<p><strong>Card 6: Electrosurgical Fire Risk</strong> (Whole Team)<br>Oxygen is pooling near the cautery tip. You smell singe. What is your response?<br><em>Success:</em> Stop cautery. Remove oxygen source. Keep saline ready. Assess patient and drape. <em>Pitfall:</em> Keeping cautery active while investigating.</p>\n<hr>\n<p><strong>Card 7: Trainee Hesitation</strong> (Trainee and Attending)<br>Mid-procedure, the trainee surgeon whispers 'I do not know what to do next.' What happens?<br><em>Success:</em> Trainee speaks up clearly. Attending steps in, explains, continues. No ego, no bluff. <em>Pitfall:</em> Trainee pretends to know.</p>\n<hr>\n<p><strong>Card 8: Patient Movement Under Anesthesia</strong> (Anesthesiologist and Surgeon)<br>The patient's legs twitch during closure. Surgeon freezes mid-stitch. Anesthesia, what do you check?<br><em>Success:</em> Checks paralytic level, anesthesia depth, BIS. Communicates to surgeon. <em>Pitfall:</em> Surgeon keeps working without pausing.</p>"
+              "type": "case",
+              "label": "Teacher Card Deck (8 cards)",
+              "content": "<p><em>Print this page. Cut along the dividers. Deploy one card per team mid-simulation once closed-loop communication feels smooth. Observe, then debrief each card briefly after.</em></p>\n<hr>\n<p><strong>Card 1: Sterile Field Break</strong> (hand to Scrub Tech)<br>Your glove just brushed the surgical drape. The sterile field is broken. Re-establish it now without stopping the operation.<br><em>Success:</em> Re-gloves, swaps compromised instruments, communicates to team. <em>Pitfall:</em> Panic, freezing, hiding the break.</p>\n<hr>\n<p><strong>Card 2: Unexpected Bleeding</strong> (Surgeon and Scrub Tech)<br>The surgical site is bleeding heavily. Surgeon, name the instrument you need. Scrub Tech, respond.<br><em>Success:</em> Surgeon calls 'Hemostat'; Scrub Tech repeats 'Hemostat' and passes with closed-loop. <em>Pitfall:</em> Wrong instrument called or passed silently.</p>\n<hr>\n<p><strong>Card 3: Dropping Oxygen</strong> (Anesthesiologist)<br>SpO2 just dropped from 98% to 89%. Anesthesiologist, what do you do first?<br><em>Success:</em> Announces the drop, checks airway and circuit, increases FiO2, calls for help if needed. <em>Pitfall:</em> Silent observation or ignoring it.</p>\n<hr>\n<p><strong>Card 4: Sponge Count Discrepancy</strong> (Circulating Nurse)<br>The final sponge count does not match. One may be inside the patient. What is your action?<br><em>Success:</em> Stops closure, alerts surgeon, initiates systematic search. <em>Pitfall:</em> Closing anyway to save time.</p>\n<hr>\n<p><strong>Card 5: Wrong-Site Near-Miss</strong> (Whole Team)<br>During the timeout, a team member notices the surgical marker is on the wrong side. What happens next?<br><em>Success:</em> Full stop. Re-verify patient ID, consent, imaging. Correct site marked before incision. <em>Pitfall:</em> Surgeon overrides the concern.</p>\n<hr>\n<p><strong>Card 6: Electrosurgical Fire Risk</strong> (Whole Team)<br>Oxygen is pooling near the cautery tip. You smell singe. What is your response?<br><em>Success:</em> Stop cautery. Remove oxygen source. Keep saline ready. Assess patient and drape. <em>Pitfall:</em> Keeping cautery active while investigating.</p>\n<hr>\n<p><strong>Card 7: Trainee Hesitation</strong> (Trainee and Attending)<br>Mid-procedure, the trainee surgeon whispers 'I do not know what to do next.' What happens?<br><em>Success:</em> Trainee speaks up clearly. Attending steps in, explains, continues. No ego, no bluff. <em>Pitfall:</em> Trainee pretends to know.</p>\n<hr>\n<p><strong>Card 8: Patient Movement Under Anesthesia</strong> (Anesthesiologist and Surgeon)<br>The patient's legs twitch during closure. Surgeon freezes mid-stitch. Anesthesia, what do you check?<br><em>Success:</em> Checks paralytic level, anesthesia depth, BIS. Communicates to surgeon. <em>Pitfall:</em> Surgeon keeps working without pausing.</p>"
             },
             {
               "type": "callout",
@@ -993,6 +1078,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "text",
               "content": "You've practiced sterile technique and communication. Now analyze how these protocols prevent real surgical errors."
@@ -1021,6 +1111,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "text",
               "content": "You've learned the instruments, mastered sterile technique, and practiced team communication. Now see how these protocols protect Marco in the real OR."
@@ -1068,6 +1163,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "step",
               "content": "What surprised you most about how an OR actually works?"
@@ -1119,6 +1219,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "Modern surgery has moved away from large incisions. Laparoscopic surgery uses 3-4 tiny cuts (about 1/4 inch each) and long instruments guided by a camera on a screen. The recovery time drops from weeks to days. But there is a catch: the fulcrum effect reverses every movement."
             },
@@ -1164,6 +1269,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "callout",
               "content": "Your Setup: This lab uses one of two trainer setups depending on your program's budget. Many programs run a mix of both across sites.\n\nOption A - Cardboard Box Trainer: A cardboard box with a few holes cut for grasper ports. Affordable, portable, and surprisingly effective. Training modules (candy to unwrap, gummy bears for transfer, peg boards, string for knot practice, small 3D models) are placed inside the box.\n\nOption B - Torso Simulator: A professional laparoscopic training torso with built-in trocar ports and anatomically positioned access points. The torso kit ships with a USB camera but NO screen, so we supplement it with the same borescope camera as Option A.\n\nCamera + screen (both options): a handheld borescope camera (example: ILIHOME 1080p with 4.3\" screen, 8 adjustable LEDs, 16.4 ft semi-rigid cable, around $30-40 on Amazon). One borescope covers both setups.\n\nSame fundamental challenge either way: operating long instruments you cannot see directly, guided only by what the camera puts on the screen.",
@@ -1231,6 +1341,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "You've experienced the fulcrum effect firsthand. Now analyze your performance data and see what it reveals about motor learning."
             },
@@ -1258,6 +1373,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "text",
               "content": "You've felt the difficulty of laparoscopic surgery. Now understand the real stakes for patients like Marco."
@@ -1295,6 +1415,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "step",
               "content": "What was your frustration level during the laparoscopic challenges? What does that tell you about surgical training?"
@@ -1346,6 +1471,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "In a mass casualty event, resources are limited and time is critical. Triage - the process of sorting patients by the severity of their condition - determines who gets treated first, who can wait, and who cannot be saved. It is the hardest decision in medicine."
             },
@@ -1386,6 +1516,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "callout",
               "content": "Materials: Printed patient scenario cards (6 patients), BP cuff and pulse oximeter (per station), Triage color tags (red, yellow, green, black), Suture practice pads and kits, Laparoscopic training box, Timer",
@@ -1453,6 +1588,11 @@
           "instructorNotes": "",
           "blocks": [
             {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
+            {
               "type": "text",
               "content": "You've triaged six patients and rotated through simulation stations. Now use the tools to verify your decisions with data."
             },
@@ -1482,6 +1622,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "text",
               "content": "You made triage decisions under pressure. Now see the clinical reasoning behind the correct tags and compare your choices."
@@ -1533,6 +1678,11 @@
           "duration": "",
           "instructorNotes": "",
           "blocks": [
+            {
+              "type": "callout",
+              "style": "info",
+              "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
+            },
             {
               "type": "step",
               "content": "What was the most difficult moment of today's simulation? How did you handle it?"
