@@ -1,10 +1,11 @@
 {
   "meta": {
-    "title": "Mini Med School 2026",
+    "title": "Mini Med School",
     "program": "6-Session Program",
     "dates": "",
     "storageKey": "woven-mms-6session-2026",
-    "deployUrl": "https://mini-med-school-6-session-phi.vercel.app"
+    "deployUrl": "https://mini-med-school-6-session-phi.vercel.app",
+    "slug": "mini-med-school-6-session-phi"
   },
   "days": [
     {
@@ -20,7 +21,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -62,7 +63,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -261,7 +262,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -312,7 +313,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -364,7 +365,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -419,7 +420,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -470,7 +471,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -531,7 +532,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -570,7 +571,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -622,7 +623,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -677,7 +678,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -723,7 +724,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -800,7 +801,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -851,7 +852,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -893,7 +894,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -948,7 +949,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -999,7 +1000,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1084,7 +1085,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1117,7 +1118,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1169,7 +1170,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1224,7 +1225,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1275,7 +1276,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1349,7 +1350,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1382,7 +1383,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1424,7 +1425,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1479,7 +1480,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1525,7 +1526,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1605,7 +1606,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1640,7 +1641,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
@@ -1696,7 +1697,7 @@
           "blocks": [
             {
               "type": "callout",
-              "style": "info",
+              "style": "notebook",
               "content": "Woven notebook: open your notebook now. As you move through this phase, write your answers to every reflection, discussion, and clinical scenario question before moving on. Your notebook is the record of your thinking."
             },
             {
